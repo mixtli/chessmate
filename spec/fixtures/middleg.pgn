@@ -1,0 +1,1985 @@
+[Event "Crakow"]
+[Site "Crakow"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Alekhine"]
+[Black "Junge"]
+[Result "1-0"]
+[ECO "C86"]
+[Annotator "01: Active Bishop"]
+[PlyCount "57"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The active Bishop puts White in a position to start a Kingside attack} 1. e4
+e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3 8...
+d5 9. d3 $1 {An excellent reply, avoiding the complications arising from 9.
+exd5 and ensuring White a positional advantage since the opening of the d-file
+is in his favour (as he can immediately occupy it) - Alekhine    } (9. exd5
+Nxd5 (9... Bg4 10. dxc6 e4 11. h3) 10. Nxe5) 9... dxe4 (9... d4 10. cxd4 Nxd4
+11. Nxd4 Qxd4 12. Be3 Qd6 13. f4) (9... Bg4 10. h3 (10. exd5 Nxd5 11. Qe4 Be6
+12. Nxe5 Nxe5 13. Qxe5 Bd6) 10... Bh5 11. Bg5 dxe4 12. dxe4) (9... Qd6 10. Bg5)
+10. dxe4 Bg4 11. h3 Bh5 12. Bg5 Ne8 (12... Na5 13. g4 Bg6 14. Nxe5 Bxe4 15.
+Bxf6 gxf6 16. Nxf7) 13. Bxe7 Bxf3 (13... Qxe7 14. g4 Bg6 15. Bd5 Qd7 16. Nbd2)
+(13... Nxe7 14. g4) 14. Qxf3 Nxe7 15. Rd1 Nd6 16. Nd2 c6 (16... Kh8 17. Nf1 (
+17. Bc2 c6) 17... f5) 17. Nf1 Qc7 18. a4 Rad8 19. Ng3 Nec8 (19... -- 20. Qe3 --
+(20... c5 21. Bd5) 21. axb5 axb5 22. Ra7) 20. axb5 axb5 21. Nf5 Nb6 (21... Nxf5
+22. exf5) 22. Qe3 Nxf5 (22... -- 23. Qg5 Nxf5 24. exf5 Nd7 25. Rxd7 Rxd7 26. f6
+g6 27. Qh6) (22... -- 23. Nxd6 Rxd6 24. Rxd6 Qxd6 25. Qxb6) (22... Nbc4) (22...
+Ndc4 23. Bxc4 Nxc4 24. Qc5 Nxb2 25. Rxd8 Rxd8 26. Ne7+ Kh8 27. Nxc6 Rc8 28. Ra7
+) 23. exf5 c5 (23... Nd5 24. Qf3 Nf6 25. g4) (23... Nd5 24. Bxd5 Rxd5 (24...
+cxd5 25. Ra7 d4 26. Rxc7 dxe3 27. Rxd8 exf2+ (27... e2 28. Rcc8 e1=Q+ 29. Kh2
+g5 30. f6 h5 31. Rxf8+ Kh7 32. Rg8) 28. Kxf2 Rxd8 29. Rb7) 25. Rxd5 cxd5 26.
+Ra7 Qd6 (26... Qb8 27. Qg5 Kh8 28. Qe7) 27. Rb7 Rb8 28. Qa7 Rxb7 29. Qxb7) 24.
+f6 gxf6 25. Qh6 f5 26. Bxf7+ Qxf7 (26... Kxf7 27. Qxh7+) (26... Rxf7 27. Qg5+)
+(26... Kh8 27. Qf6#) 27. Rxd8 Na4 (27... Rxd8 28. Qg5+) 28. b3 Nxc3 (28... Rxd8
+29. Qg5+) (28... Qxb3 29. Rxf8#) (28... Nb2 29. Raa8) 29. Raa8 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Pilnik"]
+[Black "Kramer"]
+[Result "1-0"]
+[Annotator "01: Active Bishop"]
+[SetUp "1"]
+[FEN "r1bq1rk1/4bppp/p1n2n2/1pppp3/4P3/2PP1N2/PPB2PPP/R1BQRNK1 w - - 0 1"]
+[PlyCount "27"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{An active bishop obtained at the cost of a backward pawn  With his last move .
+.. Pd5, Black has taken the initiative in the centre, and now threatens either
+to gain space and freedom by ... Pd4 or else release tension by ... Pdxe4.  
+ Although after exchanges on e4 Black will have a weak point at d5, which
+White may exploit by Ne3-d5, but under the circumstances this is less
+important} 1. exd5 (1. -- dxe4 2. dxe4 -- 3. Bb3 3... c4 {
+White's bishop isn't active}) 1... Qxd5 2. Qe2 2... Bb7 3. Bg5 $1 (3. Nxe5 Nxe5
+4. Qxe5 Qxg2#) (3. Bb3 {threat to win the pawn} 3... Qd7 4. Nxe5 Nxe5 5. Qxe5
+5... Bd6 $44 {a strong attack}) 3... Rfe8 4. Bh4 {
+threatening to win the e-pawn with Bg3 as well as making room for Ng5 with Bb3}
+4... Rad8 {Apparently Black still stands very well. His pressure on the d-pawn
+seems to condemn the Bishop to passivity} 5. Bb3 $3 {
+This deep moves demonstrates otherwise} (5. Red1 {
+relieves Black's chief worry of protecting the e-pawn}) (5. Rad1 Qxa2) 5...
+Qxd3 6. Qxd3 Rxd3 7. Nxe5 Nxe5 8. Rxe5 8... c4 $2 {The Black pieces are
+awkardly ties up, while the White ones have developed great activity. With the
+text move Black hopes to persuade the dangerous bishop to be more modest, but
+he doesn't succeed} (8... Bd6 $2 {the point of Bb3} 9. Rxe8+ Nxe8 10. Bc2 Rd5
+11. Be4 11... Rh5 12. Bxb7 Rxh4 13. Bxa6 $16 {winning ending}) (8... Rdd8 $1 {
+best defence} 9. Rae1 Kf8) 9. Bc2 Rdd8 (9... Rd7 10. Rae1 Nd5 11. Bf5 Rc7 12.
+Bg3 $18 {Rippis
+}) 10. Rae1 10... Kf8 11. Bxh7 $1 11... Bd6 (11... Nxh7 12.
+Bxe7+ $16) (11... g6 12. Bg5 12... Ng8 13. Bc1 (13. Bxg8 Bxg5 14. Rxe8+ Rxe8
+15. Rxe8+ 15... Kxe8 $19) 13... -- {there is no avoiding Bxg8.
+} (13... Nf6
+14. Bh6#) 14. Bxg8) 12. Rxe8+ Rxe8 13. Rxe8+ Nxe8 14. Bc2 $18 1-0
+
+[Event "Hastings"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Euwe"]
+[Black "Thomas"]
+[Result "1-0"]
+[Annotator "01: Active Bishop"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2qppp/2p5/5P2/2B5/2R1P3/PP4PP/3Q1RK1 b - - 0 1"]
+[PlyCount "20"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{A well-known position from the orthodox Queen's gambit declined. This
+position, which has occured hundred of times in practise, provides an
+excellent exmple of an active bishop. The problems facing both players are
+clear-cut. White must play for a direct attack, to make the most from his
+temporary advantage. Black still has to solve the problem of how to put his
+Bishop to work.} 1... b5 {Black sets about it by force} 2. Bb3 2... b4 3. f6 {
+An unpleasant intermediate move which breaks open the King's position.} (3. --
+3... Ba6 {solving the problem of developing the bishop}) (3. Rxc6 Qxe3+ 4. Kh1
+4... Bb7 {offers White less}) 3... gxf6 4. Rxc6 Qxe3+ 5. Kh1 5... Bb7 {
+The most consequent continuation by which the Black bishop also assumes an
+active role. But the weakening of the King's position now begins to bearfruit}
+(5... Be6 6. Bxe6 fxe6 7. Qg4+ Qg5 8. Qxe6+ Kh8 9. Rxf6 Rg8 (9... Rfe8 10. Qf7
+$1) 10. Rf2 $1) (5... f5 6. Qh5 {winning attack} (6. Rf3)) 6. Rcxf6 Qe4 7. Qd2
+7... Kh8 (7... Rad8 $2 8. Qg5+ Kh8 9. Rxf7 $18) 8. Bxf7 8... Rac8 (8... Rad8 9.
+Qg5 (9. Qf2 Qe7 10. Bb3 Rxf6 11. Qxf6+ Qxf6 12. Rxf6 12... Bd5 $1) 9... Rg8 10.
+Bxg8 Rxg8 11. Rf8 11... Qxg2+ $11 12. Qxg2 Bxg2+ 13. Kg1 Bxf1+ 14. Rxg8+ Kxg8
+15. Kxf1 {draw}) 9. R6f2 $1 (9. Bb3 $2 9... Rxf6 10. Rxf6 Qxg2+ 11. Qxg2 Rc1+
+12. Rf1 Rxf1#) 9... Rcd8 (9... Qg4) 10. Qg5 Rd6 (10... Qd4 11. Bd5 Qg7 (11...
+Rxf2 12. Qxd8+ Kg7 13. Qg5+ Kf8 14. Qg8+ Ke7 15. Re1+ Kd6 16. Bxb7 $18) 12.
+Rxf8+ Rxf8 13. Rxf8+ Qxf8 14. Qe5+ Qg7 15. Qe8+ Qg8 16. Qxg8#) 11. Bd5 $1 {
+The activity of the Bishop has reached its high point} 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Stahlberg"]
+[Black "Trifunovic"]
+[Result "1/2-1/2"]
+[Annotator "01: Active Bishop"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3ppp/2p2q2/5P2/2B5/2R1P3/PP4PP/3Q1RK1 b - - 0 1"]
+[PlyCount "20"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{How the active bishop in the orthodox Queen's gambit declined can be rendered
+harmless by Black  The position is nearly identical to the previous one, but
+the one small difference is very important. Black has retreated his Queen to
+f6 instead of e7. Thus the possibility of his Kingside being broken up by f6
+does not arise for the time being, and he can attend peacefully to the problem
+of his Bishop.} 1... a5 {Preparing ... Pb5.} 2. a4 (2. Bb3 2... a4 {
+First advantage: White is driven from the the a2-g8 diagonal}) (2. -- b5 3. Bd3
+3... Ba6 {Black has solved the problem of his bishop}) (2. a3 b5 3. Ba2 b4 4.
+Rc5 4... Ba6 5. Re1 5... Bb5 {
+Black has definitely solved teh problem of the Bishop}) 2... Rb8 3. Qc2 Bd7 (
+3... b5 $2 4. axb5 cxb5 5. Bxb5 Rxb5 6. Rxc8) 4. Rd3 Rbd8 5. Qd2 {
+Seemingly very strong, attacking the Bishop and the a-pawn simultaneously} 5...
+b5 $1 (5... Bc8 6. Qxa5 $1 6... Rxd3 7. Bxd3 Qxb2 8. f6 $1 {
+And suddenly White has a strong attack}) 6. axb5 (6. Rd6 $2 6... Bc8 $1) (6.
+Bxb5 cxb5 7. Rxd7 Rxd7 8. Qxd7 Qxb2 9. axb5 9... Rb8 {meagre winning chances
+}
+) 6... cxb5 7. Bd5 Bc6 8. e4 (8. Bxc6 Rxd3 9. Qxd3 9... Qxc6 {
+Black's pawn majority is more dangerous}) 8... Bxd5 9. exd5 Qb6+ 10. Qf2 Qxf2+
+11. Kxf2 $11 1/2-1/2
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Poletayev"]
+[Black "Flohr"]
+[Result "1-0"]
+[Annotator "01: Active Bishop"]
+[SetUp "1"]
+[FEN "8/k1q2pp1/pp1rp3/3n4/P7/1R4PP/2P1Q1B1/6K1 w - - 0 1"]
+[PlyCount "17"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{A position in which an active Bishop proves too strong for a knight  Both
+king positions are seriously weakened, and but for the presence of minor
+pieces on the board Black would have the better chances, due to his extra pawn.
+Yet in the present circumstances the White bishop is so much stronger than the
+Black knight that White has a won game. The bishop not only shields the
+weakness of White's king position, but also lends decisive strength to the
+attack which follows.  } 1. c4 {
+First of all, the hostile Knight must be dislodged from his strong position.}
+1... Ne7 2. Qf3 2... Qc6 3. Qxf7 Qc5+ 4. Kh2 4... Rd1 {Black suddenly produced
+the counterthreat of Qg1 mate, a threat not easily parried.} 5. Re3 $1 (5. g4
+Qd6+ 6. Rg3 6... Rd3 $132) (5. h4 5... g5 $1) 5... b5 {
+since defence is useless, Black makes one last desparate attempt} (5... Qxe3 6.
+Qxe7+ Kb8 7. Qb7#) (5... Rd7 6. Qxe6 (6. Qf3)) 6. Qxe6 Nc8 7. a5 $1 {
+Preventing the escape of the King via b6} 7... Qc7 (7... -- 8. Qf7+) 8. Qe4
+8... Qb8 9. Qg4 1-0
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Zvetkov"]
+[Black "Smyslov"]
+[Result "0-1"]
+[Annotator "01: Bad Bishop"]
+[SetUp "1"]
+[FEN "2b2rk1/p3q2p/1p1p2p1/2pP1r2/2B5/6QP/PPP2RP1/5RK1 b - - 0 1"]
+[PlyCount "73"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The bad Bishop inside the pawn chain, and with no support-point  The White
+Bishop is inferior to the Black one because of the blocked pawn on d5. The
+inferiority is not yet decisive, since only one pawn is fixed on the wrong
+colour. We shall now see how Black strives to increase his advantage.} 1...
+Rxf2 2. Rxf2 Qe1+ 3. Bf1 Rxf2 4. Qxf2 4... Qe5 {The intention of the text is
+plain: Black hopes to force Pc5 and make the White Bishop less effective} ({
+By exchanging Queens at this point, Black could already have brought about a
+pure Bishop ending, but his advantage would have been too slight to lead to a
+win} 4... Qxf2+ 5. Kxf2 Kf7 6. Ke3 Kf6 7. g3 Ke5 8. c4 Bf5 9. h4 $11 {
+And white can hold out}) 5. Qe2 5... Qd4+ (5... Qxd5 $4 6. Qe8+ $18) 6. Kh2 Kf8
+7. c4 $2 {Such pawn moves should be made only if no other possibility remains.}
+(7. Qf3+ Kg7 8. c3 Qe5+ 9. Kg1 Bb7 10. Bc4) 7... Bf5 8. g4 $2 {
+Another pawn on the wrong colout!} (8. g3 {giving White the opportunity to
+chase the Black bishop with offers to exchange by Bh3 and Bg2. After the text
+move Black's advantage is of decisive signifance}) 8... Bb1 9. a3 (9. b3 Qe5+
+10. Qxe5 10... dxe5 $17 11. a3 Bc2 12. b4 cxb4 13. axb4 a5 14. bxa5 bxa5 15. c5
+a4 16. Bc4 16... Bb3 $1 $19) 9... Be4 $1 10. Kg3 (10. Bg2 Bd3 11. Qe6 Qe5+ 12.
+Qxe5 dxe5 13. b3 13... Ke7) 10... Qe5+ 11. Kf2 Qf4+ 12. Ke1 Kg7 13. Qd2 Qe5 14.
+Qc3 {A common occurence in such positions. White's bad bishop keeps him on the
+defensive, and to put an ent to the continual threats he seizes the
+opportunity of exchanging Queens. But thereby he only jumps from the
+frying-pan into the fire, for the endgame is lost.} (14. Qe3 g5 15. Kd1 Qd4+
+16. Qxd4+ cxd4 17. b4 17... Kf6 $19) 14... Qxc3+ 15. bxc3 {Afull treatment of
+this ending would be out of place in a work on the middlegame, but we give the
+moves to show that the handicap of the bad bishop really is decisive.} 15... g5
+$1 {fixing the white pawns on white squares} 16. Kf2 Kf6 17. Ke3 Ke5 18. Be2
+Bc2 19. Kd2 Bb1 20. Ke3 h6 21. Bf3 Bc2 22. Be2 22... a6 $1 23. Kd2 Ba4 24. Ke3
+24... b5 25. cxb5 25... axb5 26. Bf3 Bb3 27. Be2 Bc4 28. Bxc4 bxc4 29. a4 Kxd5
+30. a5 Kc6 31. Ke4 d5+ 32. Ke5 d4 33. cxd4 33... c3 34. d5+ Kd7 35. a6 c2 36.
+a7 c1=Q 37. a8=Q Qf4# 0-1
+
+[Event "Leningrad"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Botvinnik"]
+[Black "Kan"]
+[Result "1-0"]
+[ECO "E21"]
+[Annotator "01: Bad Bishop"]
+[PlyCount "81"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The bad bishop outside the pawn chain and in possession of a support-point} 1.
+d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Ne4 8. Qc2
+Nxd2 9. Nxd2 d6 10. e3 10... e5 11. dxe5 11... dxe5 12. Bd3 12... h6 13. O-O
+O-O 14. f4 14... Nd7 15. f5 15... Nf6 16. Ne4 16... Qd8 17. Nxf6+ Qxf6 18. Be4
+18... Rb8 19. Rad1 19... b6 20. h3 Ba6 21. Bd5 21... b5 22. cxb5 Rxb5 23. c4
+23... Rb6 24. Rb1 24... Rd8 25. Rxb6 axb6 26. e4 26... Bc8 {The White bishop
+is very bad, since three of his pawns are fixed on his own colour. But thanks
+to the fact that the Bishop is outside the pawn chain and posted on a square
+from which it rakes both wings of the enemy position, it is precisely this
+"bad" bishop which is White's winnning trump!} 27. Qa4 27... Bd7 28. Qa7 {
+Under the circumstances White has no thought of exchanging his bad Bishop for
+Black's good one.} 28... Be8 (28... Bc6 29. Qxb6) 29. Rb1 29... Rd6 30. a4
+30... Kh7 (30... Qd8 31. a5 bxa5 32. Rb8 $18) 31. a5 bxa5 32. Qxa5 (32. Qxc5
+32... a4 $132) 32... Ra6 33. Qxc5 33... Ra2 34. Qe3 $1 34... Qa6 35. Rb8 Qa4
+36. Kh2 Ra3 (36... Qc2 37. Qg3 Ra1 (37... Ba4 38. Bxf7 $18) 38. Rxe8 Qc1 39.
+Qg6+ fxg6 40. Bg8+ Kh8 41. Bf7+ Kh7 42. Bxg6# {Botvinnik}) 37. Qc5 Ra2 38. Ra8
+38... Qxa8 (38... Qc2 39. Rxa2 Qxa2 40. Qe7 Qd2 41. Qxe5 $18 (41. Qxe8 Qf4+ 42.
+Kg1 Qe3+ 43. Kf1 Qc1+ 44. Kf2 Qd2+ 45. Kf3 Qd3+ 46. Kg4 46... Qe2+ $11)) 39.
+Bxa8 Rxa8 40. Qxe5 Bc6 41. Qc7 1-0
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Keres"]
+[Black "Konstantinopolsky"]
+[Result "0-1"]
+[Annotator "01: Bad Bishop"]
+[SetUp "1"]
+[FEN "r1bq1rk1/p6p/2p1p3/2PpPpp1/8/P1Q5/1P3PPP/R1B2RK1 b - - 0 1"]
+[PlyCount "69"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The struggle between a bad bishop outside the pawn chain and a bad bishop
+within the chain  While Black's bad Bishop has an open diagaonal at his
+disposal, the White bad bishop is condemned to a very passive role. it is
+plain that Black's advantage in mobility can be exploited only in the
+middlegame. An endgame may well be drawn, since the Bishops control
+opposite-coloured squares. It usual to speak of "unlike Bishops", or "Bishops
+of opposite colours", although these expressions are not litereally correct. 
+ Many players have a holy dread of such bishops, since in an ending it can
+happen that an advantage of two or even three pawns may not suffice to force a
+win. But before an ending the Gods have placed the middlegame as Dr. Tarrasch
+often remarked. And this really is quite logical; the fact that the Bishops
+work on opposite colours means that one can never defend what the other
+attacks.    Black has attacking chances on the Kingside, and we see that
+through the presence of the unlike Bishops the pressure on the White position
+steadily increases.} 1... f4 {Prevents the development of the Bishop to e3 and
+at the same time obstructs the natural protection of the e-pawn with Pf4. the
+onus of guarding this pawn now falls on the Bishop which is thereby doomed by
+passivity.} 2. Bd2 Ba6 3. Rfe1 Rb8 4. Qd4 4... Bc4 {
+The bad bishop was already begue to show alarming activity} 5. Bc3 Qe8 6. Qd1
+6... Rb7 {it is evident that 7. Pb4 and 8. Pa4 would be quite useless , since
+the advance Pb5 could never be forced through} 7. a4 7... Qg6 8. Ra3 g4 9. Bd4
+9... Rg7 10. f3 (10. -- Rf5 11. -- Rh5 12. -- Qh6) 10... h5 11. Rc3 Rf5 12. Kh1
+(12. Qc2 gxf3 13. Rxf3 {undefended piece tactic} 13... Rxe5 14. Qxg6 Rxe1+ 15.
+Rf1 Rxf1#) 12... Rg5 13. b3 13... Ba6 {Black is now fully prepared to attack.
+He has been able to post every piece splendidly, while White for his part can
+only adopt a waiting attitude.} 14. Rg1 gxf3 15. Qxf3 15... Qe4 {
+very awkward for White since the Bishop cannot abadon protection of the e-pawn}
+16. Qf2 (16. Rd1 Rxg2) (16. Qxe4 16... dxe4 {
+Easy win for Black's pieces control the board}) 16... Bd3 {The bishop heads
+for the magnificent post e4 from where it will decisively reinforce the attack
+against g2} 17. b4 (17. Re1 Rxg2 18. Rxe4 Rxf2 (18... Bxe4) 19. Rxd3 (19. Re1
+Be4+ 20. Rf3 Bxf3#) 19... Rf1+ 20. Bg1 Rfxg1#) 17... Qf5 18. b5 18... Be4 19.
+bxc6 Rxg2 20. Rxg2 Rxg2 21. Qxg2+ Bxg2+ 22. Kxg2 Qe4+ 23. Kf1 23... f3 (23...
+Qxd4 $2 24. c7 $1) 24. Be3 Qg6 25. Ke1 Qb1+ 26. Kd2 (26. Rc1 Qd3) (26. Kf2
+26... Qh1 $19) 26... Qb2+ 27. Rc2 (27. Kd3 Qe2+ 28. Kd4 f2 29. c7 29... Qg4+
+$19) 27... Qxe5 28. c7 Qxh2+ 29. Kd1 Qxc7 30. c6 e5 31. Bxa7 31... d4 {
+The beginning of an exactly calculated final combination} 32. Bb6 32... d3 33.
+Rc1 (33. Bxc7 dxc2+ 34. Kxc2 34... f2 $19) 33... Qxb6 34. c7 Qxc7 35. Rxc7
+35... f2 0-1
+
+[Event "Groningen"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Guimard"]
+[Black "Euwe"]
+[Result "0-1"]
+[Annotator "02: The Knight"]
+[SetUp "1"]
+[FEN "r4r2/2p2p1k/1p1p2pp/1PnPp1q1/p1P1P1P1/P3NPR1/3Q3P/4R2K b - - 0 1"]
+[PlyCount "19"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The Knight has several support-points  The Black Knight on c5 already stands
+very well, but if need be it can move via b3 to d4, where under certain
+circumstances it may be even more active.  By contrast, the White Knight has
+no prospect of improving its position. It could go to b4 to c6, but there it
+would be virtually out of play, since the pawn position would not allow the
+other White pieces to cooperate with it.} 1... Rh8 {
+with the intention of opening a file for the Rooks} 2. Qe2 Kg7 3. Ng2 (3. Nf5+
+3... Kf8 {loses time as the knight must retreat}) 3... h5 4. h4 4... hxg4 {
+An important intermediate move, which prevents White from closing the position
+by Pg5} 5. fxg4 {Gives Black the opportunity for a decisive combination} (5.
+Rxg4) 5... Rxh4+ $1 6. Nxh4 6... Rh8 (6... Qxh4+ 7. Qh2) 7. Kg2 (7. Rh3 Rxh4 8.
+Rxh4 (8. Qh2 Rxg4 9. Rh7+ Kf8 10. Rf1 Rf4) 8... Qxh4+ 9. Kg2 9... Nd3 $1) 7...
+Qxh4 8. g5 Nb3 9. Rg1 9... Nd2 {
+The point of the final combination. The square f1 is guarded.} 10. Kf2 (10.
+Qxd2 Qh2+ 11. Kf3 Qxd2) 10... Nxe4+ 0-1
+
+[Event "Beverwijk"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Rossolimo"]
+[Black "Kramer"]
+[Result "0-1"]
+[Annotator "02: The Knight"]
+[SetUp "1"]
+[FEN "7r/5pk1/p3p1p1/1p1nP1q1/3Q4/6P1/PP2BP2/3R2K1 w - - 0 2"]
+[PlyCount "26"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Knight with support point against good bishop  White is handicapped here by
+his weak e-pawn, and is in no position to render the Knight harmless} 2. Bf3
+2... Rd8 3. a3 Rd7 4. b4 {White has fixed enemy pawn on light squares so that
+in a B vs N ending he would have good chances. The snag is that the Knight now
+has a second support point at c4} 4... Qd8 5. Rc1 {To be able to exchange the
+dangerous Knight at last; but this piece now jumps across to its second
+outpost} 5... Nb6 6. Qc5 Nc4 7. Rxc4 {nothing better} (7. a4 Nd2 8. Bd1 Ne4 9.
+Qc2 Nxf2 10. Qxf2 10... Rxd1+ $19) (7. Rc3 7... Rd3 $1) (7. Be2 Rd5 8. Qa7 Rxe5
+9. Bxc4 9... Qd2 $1 10. Rf1 bxc4 11. Qxa6 c3) 7... bxc4 8. Qxc4 Qb6 (8... Rd3 {
+quicker
+} 9. Bb7 Rxa3 10. Bxa6 Qd2) 9. Be2 a5 10. Qf4 axb4 11. axb4 Rd5 12.
+Bf3 (12. b5 Qb8 13. Qf6+ Kg8 14. f4 14... Qb6+ $19) 12... Rd4 13. Qf6+ Kg8 14.
+Bg2 Qxb4 0-1
+
+[Event "Dubrovnik"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "O'Kelly"]
+[Black "Najdorf"]
+[Result "0-1"]
+[Annotator "02: The Knight"]
+[SetUp "1"]
+[FEN "r1q1r1k1/1ppb1pb1/3p1np1/1NnN3p/p1P1P3/4B1PP/PPQ2PBK/R2R4 b - - 0 1"]
+[PlyCount "43"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Knight with support point against bishop without support point  With this
+last move Nd4-b2, White gave his opponent the opportunity for the following
+transaction} 1... Nxd5 2. exd5 2... Bxb5 3. cxb5 3... a3 4. Bd4 (4. Bxc5 axb2
+5. Rab1 dxc5 6. Qxc5 6... Rxa2 $17) 4... Bxd4 5. Rxd4 axb2 6. Qxb2 6... b6 {
+Now Black has a beautifully posted knight against a bad Bishop - a decisive
+advantage. From now on there is little White can do.} 7. Rd2 Qf5 8. Re2 8...
+Nd3 {This Knight has no intention of abadoning his strong point for good. With
+this foray, Blac achieves maximum activity for his other pieces} 9. Rxe8+ Rxe8
+10. Qc2 10... Qe5 11. Rd1 11... Nc5 {Now it becomes clear: Black threatens to
+invade the seventh rank, and also start a direct attack by 12. ... h4} 12. h4
+12... Qe2 13. Qd2 (13. Qxe2 Rxe2 14. f3 14... Rxa2 $17) 13... Qxb5 14. Re1 Rxe1
+15. Qxe1 Qb2 16. f4 (16. Qe8+ Kg7 17. Qc8 Qxf2 18. Qxc7 18... Ne4 {It is remark
+able how this powerfully posted Knight influences the whole battlefield}) 16...
+Kf8 17. f5 17... Qe5 18. Qf1 Qxf5 19. Qxf5 gxf5 20. Bf3 20... Ne4 21. Bxh5 Nc3
+22. Bf3 Nxa2 0-1
+
+[Event "Berne"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Michell"]
+[Black "Nimzowitsch"]
+[Result "0-1"]
+[Annotator "02: The Knight"]
+[SetUp "1"]
+[FEN "r4rk1/pp3ppp/2n1q3/8/8/P7/1P3PPP/R1BQ1RK1 w - - 0 1"]
+[PlyCount "68"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The struggle of Knight against bishop in an open position} 1. Re1 1... Rfd8 2.
+Bd2 Qf5 3. Rc1 3... Ne5 $1 4. Qc2 Nd3 5. Rf1 (5. Re2 $2 5... Nxc1 6. Qxf5 Nxe2+
+7. Kf1 7... Rxd2 $19) 5... Qg4 6. Rcd1 6... Qe2 {
+This prevents the active placing of the Bishop on c3} 7. Qb1 Rd5 8. Be3 {
+In the present circumstances the Bishop stands even better here than on c3,
+attacking a7 and defending f2. Yet Black retains a slight pull, thanks to his
+space advantage} 8... Rad8 9. Rd2 Qh5 10. Rfd1 {White prefers to dispel the
+Knight from its strong position rather than snatch the a-pawn.} (10. Bxa7 Nf4
+11. Rxd5 Rxd5 (11... Qxd5 12. f3 Qd2 13. Bf2 $14) 12. -- 12... Ne2+ 13. Kh1
+Qxh2+ 14. Kxh2 Rh5#) 10... b6 $1 11. f3 (11. Rxd3 11... Qxd1+ $1 12. Qxd1 12...
+Rxd3 $19) 11... Qg6 12. Qc2 h6 13. Kf1 {
+The beginning of a complicated Knight maneuver} 13... Kh7 14. Qc3 (14. g3 Qf5
+15. Ke2 Nf4+) 14... R8d6 15. b4 h5 16. g3 16... Qf5 17. Ke2 {White has achieved
+his object: the Knight must flee and content itself with a more modest role.
+Although the Knight is driven out, the results of the work remain visible. The
+White King is insecure and Black's heavy pieces are nicely placed} 17... Ne5
+18. Bf4 Rxd2+ 19. Rxd2 19... Rc6 {it is important for Black to keep one Rook
+on the board, with an eye on the position of White's King. Further exchanges
+would only favour White} 20. Qd4 (20. Qxe5 Re6) 20... Ng6 21. Bd6 {The roles ar
+e reversed. Now it is the Bishop which enjoys a temporary strong point} 21...
+Qh3 22. Ke3 Qf1 23. Rd1 Qg2 24. Qd2 Qh3 25. Qd5 25... Rc2 26. Rd2 (26. Qxf7
+26... Qg2 $19) 26... Rc3+ 27. Rd3 Rc1 28. Qxf7 Qxh2 29. Qf5 29... Rc4 30. Rd1
+Rc3+ 31. Kd4 (31. Rd3 Qg1+ 32. Ke4 Rxd3 33. Qxh5+ Kg8 34. Kxd3 Qd1+ 35. Kc4
+35... Qxd6 $19) 31... Rxa3 32. Kd5 Rc3 33. Ke6 {
+A serious blunder, which puts an untimely end to the struggle.} (33. Kd4 Qb2
+34. Qxh5+ Kg8 35. Qxg6 Rc1+ 36. Ke3 Rxd1 37. Qe8+ 37... Kh7 $11) 33... Qe2+ 34.
+Kf7 34... Rc7+ 0-1
+
+[Event "USSR Ch"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Flohr"]
+[Black "Goldberg"]
+[Result "1/2-1/2"]
+[ECO "A90"]
+[Annotator "02: The Knight"]
+[PlyCount "95"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{A difference of opinoun concerning the Knight and the bad Bishop} 1. d4 e6 2.
+Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6 7. b3 Qe7 8. Bb2 O-O 9. Qc2 Bd7
+10. Ne5 Na6 11. Nxd7 (11. Nd2 11... Be8 {Kotov-Goldberg. In the post mortem
+Flohr contended that White should have exchanged on d7, but the other masters
+thought it would have been wrong to exchange the Knight for the bad Bishop})
+11... Qxd7 {In view of the weak pawn skeleton c6-d5-e6-f5, it would seem
+important for Black to preserve his light squared Bishop for the defence, and
+according to Flohr, it's absence from d7 will weigh decisively in White's
+favour as soon as he succeeds in opening some lines} 12. Nd2 12... g5 13. Nf3
+Qg7 14. Qc1 14... g4 $2 {Flohr supposed this to be forced, but it tips the
+balance in White's favour.  White's Knight now gets a support-point of the
+utmost importance on f4, from which it can blunt the coming Kingside attack.} (
+14... Ne4) 15. Ne5 15... Nb8 16. Ba3 {Exchanging Black's good bishop} 16...
+Bxa3 17. Qxa3 Nbd7 18. Nd3 18... Rfe8 19. Rac1 Nf8 20. Qb2 h5 21. b4 h4 22. b5
+hxg3 23. fxg3 Qh6 24. Nf4 24... Re7 25. e3 Rh7 26. Bh1 26... Nh5 {Thus far the
+game has followed clear-cut line: Black presses on the Kingside, but White is
+poised ready to open files on the Queenside} 27. Qf2 (27. -- Nxg3 28. hxg3
+Qxh1+ 29. Kf2 Rh2+ 30. Ng2 Qxg2+ 31. Ke1 31... Qxb2 $19) 27... Nd7 28. bxc6 (
+28. Nd3) 28... bxc6 29. cxd5 Nxf4 (29... exd5 30. Rxc6 (30. Nxd5)) 30. exf4
+exd5 (30... cxd5 31. Rc6 Nb6 32. Re1 $16) 31. Rfe1 31... Nb6 32. Re5 32... Nc4
+{sacrificing a pawn} (32... Rf8 33. Qe2 {meagre prospects}) 33. Rxf5 $2 (33.
+Rxd5 Rb8 34. Rc5 Rb2 35. Rxc6 Qh5 36. R1xc4 Rxf2 37. Rc8+ Kg7 38. Kxf2 Qxh2+
+39. Bg2 $16) 33... Re8 34. Rg5+ Rg7 35. Re1 $2 35... Rxe1+ 36. Qxe1 Rxg5 37.
+Qe8+ Qf8 38. Qe6+ Qf7 39. Qxf7+ Kxf7 40. fxg5 Ne3 41. Bg2 Nf5 42. Kf2 Nxd4 43.
+h4 gxh3 44. Bxh3 Ne6 45. g6+ Kf6 46. Ke3 Ke5 47. Kd3 c5 48. Bg4 1/2-1/2
+
+[Event "Baarn"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Henneberke"]
+[Black "Kramer"]
+[Result "1-0"]
+[Annotator "02: The Knight"]
+[SetUp "1"]
+[FEN "r4rk1/1pp1qp2/p2p2pp/2bPp3/4PP2/2PQ4/PP1N2PP/R4R1K b - - 0 1"]
+[PlyCount "18"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{A borderline case with bad Bishop outside the pawn chain, against Knight 
+ White has just played 1. Pf4, evidently forestalling Black from taking the
+initiative with ... Pf5. We saw that a Bad Bishop outside the pawn chain can
+be a full-strength piece, provided that the other pieces can cooperate well
+with it.} 1... f6 (1... exf4 {open up the game} 2. Rxf4 f5 3. exf5 $2 (3. Raf1
+fxe4 4. Nxe4 Rxf4 5. Rxf4 Rf8 6. Rxf8+ Kxf8 7. h3 7... Bb6 $11) 3... Qe3 $17)
+2. Rf3 Kg7 3. f5 $1 3... g5 4. Rh3 4... Qf7 5. g4 {This is a very difference
+situation. The Bishop is out of play, and suddenly the Knight is much strong.
+White has a positionally won game  } 5... -- 6. Rh5 -- 7. Nf3 -- 8. Kg2 -- 9.
+Rh1 -- 10. h4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Botvinnik"]
+[Black "Flohr"]
+[Result "1/2-1/2"]
+[Annotator "02: The Knight"]
+[SetUp "1"]
+[FEN "5k2/2q2npp/1ppp1p2/5P2/2P2P2/1P2Q1P1/6BP/6K1 w - - 0 1"]
+[PlyCount "20"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Another borderline case with Knight against Bishop  The game was adjourned in
+this position, and it was thought that 1. Bf3 might win.} 1. b4 1... d5 $3 {
+A pretty sacrifice which kills two birds with one stone: the White Bishop
+becomes bad, as it must now keep an eye on the d-pawn, while the Black Knight
+becomes veryactive} 2. cxd5 2... c5 3. bxc5 bxc5 4. Bf1 4... Nd6 {The Knight
+an ideal piece for stopping passed pawn. The d6 square is the so-called
+"blockaded square" in this position. It is only in recent times that the
+importance of the blockade has been fully realized} 5. Qa3 Kf7 6. Bd3 c4 7. Bc2
+c3 (7... Qb6+ 8. Kf1 Ke7) 8. Qb4 Nc4 9. Qxc3 Qc5+ 10. Kh1 10... Qxd5+ $11
+1/2-1/2
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Trifunovic"]
+[Black "Van Scheltinga"]
+[Result "1-0"]
+[ECO "C49"]
+[Annotator "03: Two Bishops V Bishop and Knight"]
+[PlyCount "81"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The Bishop pair employed to weaken the enemy pawn position} 1. e4 e5 2. Nf3
+Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8. bxc3 Qe7 9. Re1 {
+Since the position is half close, and since, moreover, the White pawns are
+somewhat weakned by the doubling on the c-file, Black has some compensation
+for White's Bishop pair.} 9... Nd8 {First of all, Black must get rid of the
+troublesome pin on his Nf6 by dislodging the Bg5} 10. d4 10... Ne6 11. Bc1 {
+This strange looking move is the best. on c1 the Bishop is well placed, not
+exposed to exchange, and free to operage not only from c1-h6 but also on the
+a3-f8 diagonal} 11... c5 {
+Black means to force White to clear up the central situation} 12. Bf1 (12. dxe5
+dxe5 13. Nxe5 $2 13... Nc7 $19) (12. d5 Nc7 13. Bf1 13... b5 $132 {
+counterplay on the Queenside}) 12... Rd8 (12... cxd4 13. cxd4 Qc7 14. Bb2 {
+giving good chances, even if it meant losing a pawn}) 13. d5 13... Nf8 {
+Hoping to bring the Knight into active play at g6.} (13... Nc7 {more flexible})
+14. c4 Ne8 15. g3 {White's plan is clear: he intends after necessary
+preparation, to force the advance of Pf4 and so to open lines for his Bishop}
+15... f5 $2 {Playing White's game} (15... Ng6 16. h4 Bg4 17. Qd3 17... Bxf3 18.
+Qxf3) 16. exf5 16... Bxf5 17. Nh4 $1 {
+Thus in any case White gets an open diaganol for his Bishop} 17... Qd7 18. f4 {
+Always the same aim: open the position} 18... exf4 19. Bxf4 19... Ng6 {
+Giving White the chance of a favourable liquidation} (19... Bg4 20. Qd2) 20.
+Nxf5 Qxf5 21. Bd3 21... Qf6 22. Bxg6 $1 {A characteristic turn; White
+relinquishes the Bishop pair but obtains in return either a weakening of the
+hostile pawn structure or else an inroad into the seventh rank} 22... hxg6 (
+22... Qxg6 23. Re7 {one advantage transformed into another}) 23. Rb1 23... g5 (
+23... b6 24. Re6 24... Qd4+ 25. Qxd4 cxd4 26. Rd1 Rac8 27. Rxd4 $18) 24. Be3
+Rd7 25. Qg4 25... Rf7 26. Rf1 26... Qg6 27. Rxf7 Qxf7 28. Bxg5 $18 {With a soun
+d extra pawn, a good Bishop and some advantage in development White now stands
+to win} 28... Nc7 29. Bf4 Qf6 30. Qd1 b6 31. Qd3 Re8 32. Rf1 b5 33. cxb5 Qd4+
+34. Qxd4 cxd4 35. Bxd6 Nxb5 36. Bb4 a5 37. Bxa5 Ra8 38. Bb4 Rxa2 39. d6 Ra8 40.
+d7 Nc7 41. Rf8+ $18 1-0
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Smyslov"]
+[Black "Botvinnik"]
+[Result "0-1"]
+[ECO "B62"]
+[Annotator "03: Two Bishops V Bishop and Knight"]
+[PlyCount "80"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Be2 Be7 8.
+O-O O-O 9. Ndb5 a6 10. Bxf6 gxf6 11. Nd4 11... Kh8 {The strategic situation
+here is not unlike that of the previous example - two Bishops accompanied by a
+weakned pawn position. in what follows we shall see White working logically
+against eh pawn complex, while Black aims at opening lines. Remarkably enought,
+these plans do not cut across one another. black seems to play right into his
+opponent's hands; his pawns are badly doubled and isolated. Then, just when
+White seems to have realized his aims, suddenly it emerges that Black has also
+achieved his. The Bishops control the board and the resulting attack gives
+Black a decisive advantage.} 12. Kh1 12... Rg8 13. f4 Bd7 14. Bf3 14... Rc8 15.
+Nxc6 $2 {This strengthens the Black centre.} (15. Nce2 Na5 16. b3) 15... bxc6
+16. Ne2 16... d5 {
+If Black deffered this one more move White could have played Pc4} 17. f5 $2 {
+In accordance with White's plan, which is to ruin the enemy pawn formation.} (
+17. b3) (17. Qd2) 17... Qc7 18. c4 dxc4 19. Qd4 19... c5 20. Qxc4 20... Bd6 21.
+g3 21... Bb5 22. Qc2 exf5 23. exf5 {
+White has achieved what he wanted: all the Black pawns are weak.} 23... Rce8
+24. Rf2 (24. Qd2 Bxe2 (24... Be5) 25. Bxe2 Bxg3 26. Bf3) 24... Re3 25. Bg2 (25.
+Nc3 Bc6 26. Bxc6 (26. Bg2 26... Qb7 {every Black piece in active play}) 26...
+Qxc6+ 27. Kg1 27... Bxg3 $1 $19) 25... Qe7 26. Ng1 $8 26... Bd3 27. Qd2 27...
+c4 {Thus one bishops secures a splendid strong-point on d3, while a new line
+is opened for his colleague.} 28. Rf3 (28. -- Bb4 29. Qd1 29... Re1 $19) 28...
+Re8 29. Rd1 (29. Rxe3 Qxe3 30. Qxe3 30... Rxe3 $17) 29... Bc5 30. b3 (30. Rxe3
+Bxe3 31. Qc3 Qe5 32. Qxe5 Rxe5 33. b3 Rxf5 34. bxc4 34... Bxc4 $19) 30... Re1
+31. bxc4 Bxc4 (31... Bxg1 $2 32. Qxd3 Bf2+ 33. Rxe1 Qxe1+ 34. Qf1) 32. Bf1 Rxd1
+33. Qxd1 33... Rd8 34. Qc2 Bd5 35. Qc3 35... Bd4 36. Qd3 36... Qe3 37. Qxe3
+Bxe3 38. Bg2 Bxf3 39. Bxf3 Rd2 40. Ne2 (40. a4 Ra2 41. Bc6 41... Ra1) 40...
+Rxa2 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Reshevsky"]
+[Black "Van der Berg"]
+[Result "1-0"]
+[ECO "E46"]
+[Annotator "03: Two Bishops V Bishop and Knight"]
+[PlyCount "57"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Bxc3+ 7. Nxc3 b6 8. b4
+8... c5 {It often happens in the Nimzo Indian that Black has to concede the
+Bishop pair to his opponent. In return he usually has the (temporary) control
+of the crucial square e4, and so can give a half-closed character to the
+position. In the present game, Black lacks this compensation, and this is why
+White can rapidly go over to the attack} 9. dxc5 bxc5 10. cxd5 (10. bxc5 Ba6
+11. Nb5 Ne4) 10... cxb4 $2 (10... Nxd5 $2 11. Nxd5 exd5 12. bxc5 Qa5+ 13. Bd2
+Qxc5 14. Bb4) (10... exd5 11. bxc5 11... Ba6 {making the bishop pair harmless})
+11. axb4 exd5 12. Be2 Nc6 13. b5 13... Na5 14. Ba3 {
+For the time being White is content to get his pieces into play.} (14. Qa4 Nc4
+15. Bxc4 dxc4 16. Qxc4 16... Bb7 {even though this line wins a pawn, quite
+rightly White prefers the Bishop pair in full cry}) 14... Re8 15. O-O Bf5 (
+15... Be6 {too quite}) 16. Bc5 16... Ne4 17. Bb4 Nxc3 18. Bxc3 Nc4 19. Qd4
+19... Qg5 20. Qxd5 $1 (20. Rxa7 Rxa7 21. Qxa7 21... Be4 $132) 20... Nxe3 21.
+fxe3 Qxe3+ 22. Kh1 Bg6 (22... Qxc3 23. Qxf5 Rxe2 24. Qxf7+ Kh8 25. Qf8+) 23.
+Bh5 Rad8 (23... Bxh5 24. Qxh5 Qxc3 25. b6 axb6 26. Rxa8 Rxa8 27. Qxf7+ Kh8 28.
+Qf8+) (23... Qxc3 24. Bxg6 hxg6 25. Qxf7+ Kh7 26. Ra4 $1 26... Re5 (26... g5 $1
+) 27. Rh4+ Rh5 28. Rxh5+ gxh5 29. Qxh5+ Kg8 30. Qd5+) 24. Bxg6 (24. Qf3) 24...
+Rxd5 25. Bxf7+ Kh8 26. Bxe8 26... Qxe8 27. Rxa7 Qc8 (27... Rg5 28. Rfa1 (28. b6
+)) 28. Rc7 $1 (28. Bxg7+ Kg8 29. Rf8+ $2 29... Qxf8 30. Bxf8 Rd1#) 28... Qf5 (
+28... Qa8 29. Rxg7 $18) 29. Kg1 1-0
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Lilienthal"]
+[Black "Botvinnik"]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[Annotator "03: Two Bishops V Bishop and Knight"]
+[PlyCount "64"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. e3 O-O 8. cxd5
+8... Nxd5 {In this Nimzo-Indian position Black has some compensation for
+White's Bishop pair in the form of a slight lead in development. Such a lead
+can always be best utilized by opening the position. It follows that it is
+usually very difficult to make use of a lead in development as compensation
+for Bishop pair, since they also carry most weight in an open position.} 9. Bd2
+(9. c4 Ne7 10. Bd3 cxd4 11. exd4 Nf5 12. Bxf5 12... Qa5+ {
+with good play for Black since White's centre is vulnerable}) 9... Nc6 10. Bd3
+cxd4 11. cxd4 11... e5 12. dxe5 (12. e4 Nf4 13. Bxf4 exf4 14. d5 Qh4+ 15. Kf1
+15... Ne5 $36) (12. Ne2 12... exd4 13. exd4 Nxd4 14. Nxd4 Qh4+ 15. g3 Qxd4)
+12... Nxe5 13. Be4 13... Nc4 $2 {Forcing the exchange of one of the White
+bishops, but at the same time showing how difficult it is to weigh up
+positional advantages against the other.} (13... Nf6 $1 14. Bb4 (14. Bc3 Qc7
+15. Qd4 Nxe4 16. fxe4 16... f6) (14. Bc2 Nd3+) 14... Nxe4 15. Bxf8 Nd3+ 16. Kf1
+Nef2 17. Qc2 17... Nxh1 $17) 14. Qc1 Nxd2 15. Qxd2 Nf6 16. Bd3 {White no longer
+has the bishop pair, but neither has Black any lead in development. The game
+is level. For our purpose no discussion of the rest of the game is called for}
+16... Re8 17. Ne2 Qb6 18. Nd4 Nd5 (18... Qxd4 $4 19. Bxh7+ Kxh7 20. Qxd4 $18)
+19. Be4 Nxe3 20. Qxe3 f5 21. O-O fxe4 22. fxe4 Rd8 23. Nf5 Qxe3+ 24. Nxe3 Be6
+25. Rad1 Rxd1 26. Rxd1 Rc8 27. Nf5 Kf8 28. Nd6 Rc3 29. Nxb7 Rxa3 30. Nc5 Ke7
+31. Nxe6 Kxe6 32. Kf2 g6 1/2-1/2
+
+[Event "Vienna"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "?"]
+[White "Rosenthal"]
+[Black "Steinitz"]
+[Result "0-1"]
+[Annotator "03: Two Bishops V Bishop and Knight"]
+[SetUp "1"]
+[FEN "r1br2k1/ppp2pbp/6p1/8/2qN1P2/2P1B3/PP3QPP/R4RK1 b - - 0 1"]
+[PlyCount "35"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Systematic use of the Bishop pair. Steinitz was the first to show a method
+for the best utilization of the two Bishops. So far as is know, it was in the
+present game that he first applied his system.  The theory of Steinitz applies
+to positions which are not close, but which, on the other hand, are not yet
+completely open in character. White still has support points at d4 and e5. The
+cornerstone of the Steinitz system is to deprive the opponent of such support
+points by means of pawn advances. The hostile pieces will thus be doomed to
+passivity, and the owner of the bishop pair should not find it difficult to
+set a decisive attack in motion. His contemporaries pointed out the weakness
+which these pawn advances must necessarily creat. Only through the games of
+Steinitz was it realized that such weaknesses are not so serious because two
+bishops can cover all the squares, being in this way much more useful for
+neutralizing weaknesses than two Knights or Knight and Bishop would be} 1... c5
+2. Nf3 2... b6 {Puts an end to any Bishop activity on the g1-a7 diagonal} 3.
+Ne5 Qe6 4. Qf3 Ba6 5. Rfe1 5... f6 {deprives the Knight also of the e5 square}
+6. Ng4 6... h5 {Drives the Knight further back} 7. Nf2 7... Qf7 {
+intending Bb7 inducing weaknesses on this diagonal} 8. f5 {It is understandable
+that white should strive for some counterplay, but in so doing he only weakens
+his position.} (8. b3) 8... g5 9. Rad1 Bb7 (9... Qxa2 10. Qxh5) 10. Qg3 10...
+Rd5 $1 {
+This is the positional refutation of 8. Pf5. The f-pawn is now incurably weak}
+(10... Qxa2 11. Qc7 Rxd1 12. Rxd1 Bd5 13. Qd7 $132) 11. Rxd5 Qxd5 12. Rd1 (12.
+Qh3 $2 12... g4) 12... Qxf5 13. Qc7 Bd5 14. b3 14... Re8 15. c4 Bf7 16. Bc1
+16... Re2 17. Rf1 17... Qc2 18. Qg3 (18. -- Rxf2 19. Rxf2 Qxc1+) 18... Qxa2 0-1
+
+[Event "Teplits-Schonau"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Wolf"]
+[Black "Rubinstein"]
+[Result "0-1"]
+[Annotator "03: Two Bishops V Two Knights"]
+[SetUp "1"]
+[FEN "r2n1r2/ppp1q1pk/3p1n1p/4p1p1/2BPP1P1/2P3BP/P1P2P2/R2QR1K1 b - - 0 1"]
+[PlyCount "87"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The Knights in a closed position  It is evident that in a struggle against
+the Bishop pair the two Knights will do best in a closed position such as this
+one. Moreover, in this case the presence of the support point at f4 is a
+factor which strongly favours the Knights. The practical outcome of such a
+position is that White will have to look for a favourable moment to exchange
+one of his Bishops for a knight, bringing about a Bishop versus Knight
+struggle} 1... Nf7 2. Qf3 Rae8 (2... -- {White has the choice of three schemes:
+  1. He can exchange on Bishop at once (Bxf7) and then undertake the fight
+with good Bishop (3. Pf3!) against Knight  2. He can exchange the other Bishop
+for a Knight as soon as it appears on f4, but then he will have a Bad Bishop
+against Knight.  3. he can leave things as they are and keep both Bishops; but
+in this case he must work out some way of getting them into action.   Scheme 1
+is White's best choice} 3. Bxf7 Rxf7 4. dxe5 dxe5 5. Qf5+) 3. Qe3 b6 (3... --
+4. dxe5 dxe5 5. Qxa7) (3... exd4 4. cxd4 Nxe4 5. Qxe4+ Qxe4 6. Rxe4 Rxe4 7. Bd3
+Rfe8 8. f3 $18) 4. Bb5 {Abadoning the possibility of scheme 1.} 4... Rd8 5. a4
+5... Nh8 $1 {
+Black doesn't fear the opening of the a-file else he would have played Pa5} 6.
+a5 Ng6 7. f3 Nf4 8. Bf1 8... Kh8 $1 9. Bxf4 {So White chooses scheme 3 and the
+chances swing definitely in Black's favour.  If White puts his bishop on g1-a7,
+it is obstructed by Black's b-pawn. If he works it round to a3-f8, Black will
+play ... Pc5. In either case the Bishop bites on granite} (9. -- 9... Rf7 10.
+-- Nh7 11. -- Nf8 12. -- N8g6 13. -- Rdf8) 9... gxf4 10. Qf2 {Closes up the
+position still more, and fixes yet another pawn on the same colour as his own
+bishop} 10... g5 11. d5 (11. axb6 $2 11... cxb6) (11. Bc4) 11... h5 12. Bg2
+12... Kg7 13. Qe2 13... Rh8 14. Kf2 (14. Qa6 Kg6 15. Qxa7 Ra8 16. Qb7 Rhb8 17.
+Qc6 bxa5) 14... Ra8 15. Reb1 15... Nd7 16. Qb5 hxg4 17. hxg4 Nc5 18. Rh1 18...
+Rh4 $1 19. Rxh4 19... gxh4 20. Bh3 (20. -- h3 21. Bxh3 Qh4+ 22. Kg2 22... Qg3+
+$19) 20... bxa5 {Getting a passed pawn on the a-file as well} 21. Qxa5 (21.
+Rxa5 a6 22. Qb1 22... Qd8 $17) 21... Qd8 22. Rb1 Rb8 23. Rb4 a6 24. Ke2 Rb6 25.
+Qa1 Kg6 26. Kd2 26... Kg5 {
+protects the h-pawn and an eventual Pg5 depriving White of any counterplay} 27.
+Rb1 (27. Qa5 Qb8 28. Qa3 (28. Ke2 Qa7 29. -- Nb7 30. Qa4 Rxb4 31. cxb4 Qe3+)
+28... Qa7 29. Qa5 Nb7 30. Qa4 Rxb4 31. cxb4 Qf2+) 27... Qb8 28. Rh1 (28. Kc1
+Rxb1+ 29. Qxb1 Qxb1+ 30. Kxb1 {lossed ending due to passed pawns on both flanks
+} 30... Na4 31. c4 Nc3+ 32. Kc1 Ne2+ 33. Kd2 Ng1 34. Bg2 h3 35. Bh1 35... a5
+$19) 28... a5 $3 29. Bg2 (29. Qxa5 29... Rb2 30. Qa3 Nb3+ 31. Kd3 Qb5+ 32. c4
+32... Qb6) 29... a4 30. Qe1 Qh8 31. Qc1 31... Ra6 32. Bf1 Ra8 33. Bc4 a3 34.
+Ba2 Qh7 35. Rh3 Nd7 36. Qf1 Qh8 37. Rh1 Nc5 38. Qc1 38... Rb8 $3 {Black sacrifi
+ces both his passed pawns in order to force his pieces into the enemy position}
+39. Qxa3 Ra8 40. Qb2 40... h3 41. Bc4 41... Qh4 42. Be2 42... Qf2 43. Rxh3 Qe3+
+44. Ke1 44... Na4 {
+The Knight gives the final blow. This game was honoured with a brilliancy prize
+} 0-1
+
+[Event "Margate"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Capablanca"]
+[Black "Milner-Barry"]
+[Result "1-0"]
+[Annotator "03: Two Bishops V Two Knights"]
+[SetUp "1"]
+[FEN "r1r5/ppq2k2/2pp2pp/4nn2/1PPBB2P/6P1/P2Q1P2/1RR3K1 w - - 0 1"]
+[PlyCount "23"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The Knights in an open position. The undermining of support points  In this
+position we see two centrally placed Bishops facing two centrally placed
+Knights. The contrast is obvious. The Bishops would still sweep the centre of
+the board if they stood on h1 and a1, but the Knights must have support points
+if they are to maintain themselves in play. The support points here are
+insecure, and are speedily undermined.} 1. Ba1 {
+Preserving the the Bishop from exchange} (1. Bxf5 $4 1... Nf3+) 1... Rg8 (1...
+h5 2. Bxe5 dxe5 3. Bxf5 gxf5 4. Qg5 $16) 2. h5 $1 2... Raf8 3. c5 {
+Undercutting the other Knight as well} 3... d5 {Permits a decisive combination;
+but in any case the Bishops will now control the whole board} 4. Bxd5+ 4...
+cxd5 5. Qxd5+ Kf6 6. f4 6... Qc6 7. Bxe5+ Ke7 8. Bd6+ Nxd6 9. cxd6+ Qxd6 10.
+Re1+ 10... Kd7 11. Qxb7+ Qc7 12. Rbd1# 1-0
+
+[Event "Baden-Baden"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Alekhine"]
+[Black "Colle"]
+[Result "1-0"]
+[ECO "D07"]
+[Annotator "03: Two Bishops V Two Knights"]
+[PlyCount "115"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Qa4 Bxf3 5. exf3 e6 6. Nc3 Bb4 7. a3 Bxc3+ 8.
+bxc3 Nge7 9. Rb1 9... Rb8 {
+This position occured twice between Alekhine and Colle} 10. Bd3 $1 {
+(improvement according to Alekhine)} (10. cxd5 Qxd5 11. Bd3 O-O 12. O-O Qd6 13.
+Qc2 Ng6 14. f4 Nce7 15. g3 Rfd8 16. Rd1 b6 17. a4 Nd5 18. Bd2 18... c5 {
+Alekhine-Colle, Paris 1925}) 10... dxc4 $2 (10... O-O {Black should try to
+keep a pawn on d5 to prevent the opening of the long dark diagonal. It would
+then be by no means easy for White to get any play for this dark squared
+bishop. An eventual Pa4 and Ba3 would have the disadvantage that the a-pawn
+would become a target.}) 11. Bxc4 O-O 12. O-O Nd5 13. Qc2 (13. Qb3 Na5 14. Qa2
+Nxc4 15. Qxc4) 13... Nce7 14. Bd3 14... h6 15. c4 15... Nb6 16. Rd1 Nbc8 17. f4
+{Here White is employing the Steinitz method, which consists of advancing ones
+own pawns to deny the opposing pieces any support points.  In this case White
+must go to work cautiously, in view of his own vulnerable centre. The advance
+Pc5 for instance would not be considered because it would give an unassailable
+strong point at d5 for Black. White's tactics must be based on an eventual
+advance of Pd5 or Pf5, giving up a pawn if need be. Notice the Black has to
+maintain a completely passive attitude since his only freeing move ... Pc5,
+would lead to an opening ot the position which would favour the Bishop pair.}
+17... b6 18. Bb2 18... c6 {
+The breakthrough squares, d5 and f5 are now protected as well as possible} 19.
+Qe2 Nd6 20. Qe5 20... Ne8 21. a4 Rb7 22. Re1 Nf6 23. Rbd1 23... Rd7 24. Bc2 a6
+(24... Qc7 25. Qe2 Qxf4 (25... Rfd8 26. d5 cxd5 27. Bxf6 gxf6 28. Qg4+ 28...
+Kf8 {Black now has this f8 flight square}) 26. Qe5 Qxe5 27. dxe5 Rxd1 28. Rxd1
+Nh7 29. Rd7) 25. Qe2 25... Qb8 (25... Re8) 26. d5 $1 {
+The long waitied breakthrough} 26... cxd5 27. Bxf6 gxf6 28. Qg4+ 28... Kh8 {
+The end of the game is not apposite to our theme; nevertheless, it isinstructiv
+e to see how the advantage obtained is converted into a win.} 29. f5 $1 29...
+Nxf5 (29... -- 30. Qh4 Kg7 31. Re3) 30. Bxf5 exf5 31. Qxf5 31... Qd8 32. cxd5 {
+The balance sheet can now be drawn up. White has a passed pawn which limites
+the activity of the Black pieces; moreover Black's Kingside is irreperably
+weak. The Bishop pair has paid good dividends. In what follows we shall see
+how White utlilizes every detail of the position to increase his advantage.}
+32... Rd6 33. Qf4 33... Kh7 34. Qe4+ Kh8 35. Qe3 35... Kg7 36. Qd3 {Forces the
+pawn move, which considerably devalues Black's Queenside pawn majority.} 36...
+a5 37. Re3 Rg8 38. Rh3 Qd7 39. Qe3 39... f5 {A new weakness} (39... Rh8 40. Qf4
+40... Rxd5 41. Rg3+ Kf8 (41... Kh7 42. Qe4+) 42. Qb8+) 40. Rg3+ Kh7 41. Rxg8
+Kxg8 42. Qg3+ Kh7 43. Qb3 Kg7 44. h3 {Before White undertakes the decisive
+action, it is necessary to provide the king with a flight square.} 44... Qd8
+45. Qg3+ Kh7 46. Qe5 Qd7 47. Rd3 47... f6 {Yet another weakening, which was
+hardly to be avoided since Black is more or less in Zugzwang.} (47... Kg8 48.
+Rg3+ Rg6 49. d6 Rxg3 50. fxg3 Qxa4 51. Qe7 $18) 48. Qd4 Qd8 49. Qc4 Qd7 50. Rd4
+Kg7 51. Qd3 Kf7 (51... Qc8 52. Qg3+) (51... Qe7 52. Qxf5 Qe1+ 53. Kh2 Qe5+ 54.
+Qxe5 fxe5 55. Rd1 Kf6 56. Kg3 $16) (51... Kh7 52. g4 Kg6 53. gxf5+ Qxf5 54.
+Rg4+ $18) (51... Kh8 52. Qe3 Rxd5 53. Qxh6+ Kg8 54. Qg6+ Kf8 55. Qxf6+) (51...
+Kf8 52. Qe3 Kg7 (52... Rxd5 53. Qxh6+ Ke7 54. Qg7+ Ke6 55. Qg8+) 53. Rh4) 52.
+g4 52... Kf8 (52... fxg4 53. Qh7+ Kf8 54. Qxh6+ Kf7 55. Rxg4 $18) 53. gxf5 Qe8
+54. Re4 Qh5 55. Rg4 Qf7 56. Qe3 56... Qh7 57. Rg6 h5 58. Qc3 1-0
+
+[Event "Utrecht"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Kramer"]
+[Black "Thomas"]
+[Result "1-0"]
+[ECO "A00"]
+[Annotator "04: Rook against Bishop or Knight"]
+[PlyCount "75"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{A pawn is not sufficient compensation for the Exchange.} 1. d4 Nf6 2. c4 e6 3.
+Nc3 d5 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 Ne4 7. Bxe7 Qxe7 8. Rc1 c6 9. Bd3 f5 10.
+O-O O-O 11. Ne5 Nxe5 12. dxe5 Bd7 13. Ne2 Be8 14. Qc2 Qc7 15. f4 Qe7 16. cxd5
+exd5 17. Nd4 17... Rc8 $2 18. Bxe4 fxe4 19. Nb5 19... Rd8 20. Nd6 Rxd6 21. exd6
+21... Qxd6 {White wins the Exchange in a familiar manner, by managing to post
+a Knight on the sixth rank  Apart from the pawn, Black has no compensation for
+the Exchange, his Bishop being on the wrong colour} 22. Qc3 $1 {Preparing on
+the one hand for the following maneuver which fixes the Black pawns on the
+same colour as their Bishop, and on the other hand for the direct attack
+Pf5-f6} (22. Qc5 {on the principle that a material advantage is best utilized
+by heading for the endgame} 22... Qxc5 23. Rxc5 b6 24. Rc3 24... c5 {the positi
+onal state of affairs is very different. The Black bishop has become "good"
+and comes into powerful play via b5 to d3. Moreover, Black will now have the
+possibility of ... Pd4, while will make his central majority very dangerous. 
+ White will be unable to prevent him from estabilishing either unitied passed
+pawns (if he exchagnes on d4) or else a protected passed pawn (... Pd3). In
+either case, Black will have more than enough compensation for the Exchange.})
+22... Bd7 23. b4 23... a6 {This suits White's plans admirably} (23... b6 24. f5
+Bxf5 25. Qxc6) 24. Qd4 h6 25. Rfd1 25... Qe7 (25... -- 26. Qxe4) 26. a4 Kh7 27.
+b5 $1 {Rooks need open files to show their full strength} 27... axb5 28. axb5
+Ra8 29. bxc6 Bxc6 (29... bxc6 30. Ra1) 30. Ra1 Ra3 31. Rxa3 Qxa3 32. Ra1 Qb3
+33. h3 Qd3 34. Qc5 (34. Qxd3 $13 34... exd3 35. Kf2 35... Bb5 {
+the Black passed pawn paralyzes the White pieces}) 34... Kg6 35. Ra8 Kh5 (35...
+Kh7 36. f5 Qe2 37. Kh2) 36. Kh2 Qe2 (36... -- 37. Qd6 Qxe3 38. g4+ Kh4 39. Qe7+
+g5 40. Qxg5+ hxg5 41. Rh8#) 37. Rg8 Kg6 (37... g5 38. Qd6 {
+the Black bishop is useless}) 38. Qd4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Lasker"]
+[Black "Janowsky"]
+[Result "0-1"]
+[Annotator "04: Rook against Bishop or Knight"]
+[SetUp "1"]
+[FEN "6k1/2p4q/p1Pp1r2/1p1PpP1p/1P1n4/3R2PQ/P7/3R3K w - - 0 1"]
+[PlyCount "54"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{A pawn and a strong Knight position for the Exchagne  A Knight in the middle
+of the board protected by a pawn and out of range of any enemy pawn, is
+stronger than a Bishop and nearly as strong as a Rook (Dr. Tarrasch).  Here
+Black can soon win the f-pawn, while the d-pawn is also a weakling. All this
+combined outweighs the Exchange, as the sequence shows.} 1. Rf1 1... Qf7 {
+Black's best policy is to keep the Queens on the board.} (1... Nxf5 2. Rdf3) (
+1... Rxf5 2. Rxf5 Nxf5 (2... Qxf5 3. Qxf5 Nxf5 4. Rf3 Nd4 5. Rf6 5... Kg7 6.
+Rxd6 cxd6 7. c7) 3. Rf3) 2. Qg2 $2 (2. Kh2 Qxd5 3. Qxh5) 2... Rxf5 3. Rxf5 Qxf5
+4. Re3 {costs another pawn, but White has no good continuations} (4. Ra3 e4 5.
+Rxa6 e3 6. Ra3 6... e2 $19) (4. Rd1 Nf3 5. Rf1 5... e4 $17) 4... Qb1+ 5. Kh2
+Qxb4 6. g4 6... h4 {Black's program reads: push on with the Queenside pawns,
+but don't let the opponent become active} 7. Kh3 (7. Rh3 Qe1) 7... Qc4 8. Qe4 (
+8. Kxh4 8... Nf5+) 8... Kg7 9. Kxh4 9... Qf1 $1 {
+Before he can bring the Queenside pawns forawrd Black must prevent Kg5.} 10. a3
+(10. Kg5 Qf6+ 11. Kh5 Qh6#) 10... a5 11. Kg3 11... Qg1+ $1 (11... -- 12. Re1
+Qc4 13. Rh1 $132) 12. Kh3 (12. Kh4 Qf2+ 13. Rg3 Ne2) 12... Qf2 {
+Imobolizes the Rook} 13. g5 (13. Rc3 13... Ne2) (13. Re1 13... Nf3) 13... b4
+14. axb4 axb4 15. Kg4 Qg1+ (15... b3 16. Rh3 Qg1+ 17. Rg3 Qd1+ 18. Kh4 {
+blocking the h-file}) 16. Kh5 Qh2+ 17. Kg4 b3 18. Re1 18... Qc2 19. Kh5 (19.
+Qxc2 bxc2 20. Rc1 Kg6 21. Kh4 e4 22. Kg4 22... e3 $19) 19... Qxe4 20. Rxe4
+20... Nc2 $1 {
+Thanks to this fine move, Black ensures that his opponent cannot stop the pawn}
+21. Rxe5 (21. Rh4 b2 22. Rh1 Na3) 21... b2 (21... dxe5 22. d6 b2 23. dxc7 b1=Q
+24. c8=Q Qh1+ 25. Kg4 Ne3+ 26. Kg3 Qg2+ 27. Kh4 Qf2+ 28. Kh3 Qf3+ 29. Kh4 Ng2#)
+22. Re7+ Kf8 23. Rxc7 b1=Q 24. Rc8+ Ke7 25. Rc7+ Kd8 26. Rd7+ Ke8 27. Rxd6 Nd4
+0-1
+
+[Event "Triberg"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Selesniev"]
+[Black "Alekhine"]
+[Result "0-1"]
+[Annotator "04: Rook against Bishop or Knight"]
+[SetUp "1"]
+[FEN "1r3rk1/2qnppb1/b2p2pp/p1pP4/P1P5/3B1NP1/2QBPP1P/1R3RK1 b - - 0 1"]
+[PlyCount "109"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The Exchange counterbalanced by two positional advantages: two Bishops plus
+protected passed pawns} 1... Rb4 $1 2. Bxb4 2... cxb4 {For the exchange Black
+now has a whole string of advantages:  a) A protected passed pawn  b) Bishop
+pair  c) White weak a and c-pawn  d) the c5 square  According to Alekhine,
+these advantages add up to more than the value of the Exchange} 3. Nd2 3... Nc5
+$2 {An inexactitude, of which White makes excellent use} (3... Rc8) 4. Nb3 {
+Black supposed this to be impossible because of the undefended a-pawn} 4... Nd7
+(4... Nxa4 5. Ra1 Nc5 6. Nxa5 Bxa1 7. Rxa1 7... Kg7 (7... -- 8. Bxg6 fxg6 9.
+Qxg6+) 8. Nc6 $16) (4... Rc8 5. Nxc5 Qxc5 6. Rfc1 Bc3 7. Qb3 Qd4 8. Rxc3 bxc3
+9. Rc1 {White would have succeded in restoring the balance}) 5. c5 $1 {
+This pawn was only obstructing the Bishop} 5... Bxd3 6. exd3 $1 6... dxc5 7.
+Rfe1 (7. Qc4 Qd6 8. Nxa5 Ne5 9. Qb3 Ra8) 7... Ne5 8. Re3 (8. Qxc5 Nf3+ 9. Kf1 (
+9. Kg2 Nxe1+ 10. Rxe1 Qxc5 (10... Rc8 11. Qxc7 Rxc7 12. Nxa5 Ra7 13. Nc6) 11.
+Nxc5 Rc8 12. Nb3 {Euwe}) 9... Qxc5 10. Nxc5 Nd2+ 11. Kg2 Nxb1 12. Rxb1 12...
+Rd8 $17 {Alekhine}) 8... Rc8 9. Rc1 Qd7 10. d4 Ng4 11. Re4 (11. dxc5 Nxe3 12.
+fxe3 12... Qxa4) 11... c4 12. Nc5 (12. Nxa5 Qxd5 13. Nxc4 Rxc4 14. Qxc4 Qxe4
+15. Qxb4 15... Bxd4 $19) 12... Qf5 13. Qe2 13... b3 $3 {
+A decidedly unexpected advance} 14. Rxg4 (14. Qxg4 b2 15. Rb1 Qxg4 16. Rxg4 c3
+17. Nd3 Rc4 18. Nxb2 Rb4 19. Re4 Kf8 20. Rc1 f5 21. Nd3 fxe4 22. Nxb4 axb4 23.
+a5 Bxd4 24. a6 24... Kf7 $19 (24... b3 25. Rxc3 Bxc3 26. a7)) (14. Rf4 Qh5 15.
+Rxg4 b2) 14... b2 15. Qxb2 Qxg4 16. Rxc4 {Apparently things have worked out
+well enough for White. True, he has relinquished the Exchange, but he has teh
+initiative on the Queenside, and rejoices in the possession of an extra pawn.}
+16... h5 $1 {But this move reveals a different side to the picture. Black
+opens a sharp attack on the King, and the sequel clearly shows that his
+chances are to be preferred.} 17. Qc2 h4 18. Qd3 Rd8 19. f3 Qh5 20. Qe4 hxg3
+21. hxg3 Qg5 22. Kg2 Qd2+ 23. Kh3 Bf6 24. Rc2 Qh6+ 25. Kg2 Kg7 26. g4 Rh8 27.
+Kf2 Rb8 28. Ke2 Rb4 29. Rd2 Qh2+ 30. Ke3 Qg1+ 31. Ke2 Bxd4 32. Nd3 Rb1 33. Nc1
+Bc3 34. Qxb1 Qg2+ 35. Kd3 Qxd2+ 36. Kc4 Qd4+ 37. Kb3 Ba1 38. Ka3 Qc5+ 39. Ka2
+Bf6 40. g5 Qxd5+ 41. Nb3 Qxg5 42. Qe1 Qg2+ 43. Qd2 Qxf3 44. Qxa5 g5 45. Qe1 Qc3
+46. Qxc3 Bxc3 47. a5 Bxa5 48. Nxa5 g4 49. Nc4 g3 50. Nd2 Kg6 51. Kb2 Kf5 52.
+Nf3 Kf4 53. Ng1 Ke3 54. Kc2 Kf2 55. Nh3+ Kf1 0-1
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Lyublinsky"]
+[Black "Botvinnik"]
+[Result "0-1"]
+[Annotator "04: Rook against Bishop or Knight"]
+[SetUp "1"]
+[FEN "1r1r2k1/2b1qp1p/b1p3p1/p1p1p3/2P1P3/1PN1BP2/P1Q3PP/R2R2K1 b - - 0 1"]
+[PlyCount "57"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The placeing of a Rook at a strongly supported point on an open file gives
+winning chances, especially if the Bishop pair is retained. In the present
+case this possibility is in fact Black's only chance, in view of his seriously
+weakened pawn position} 1... Rd4 $1 2. Ne2 $2 (2. Bxd4 cxd4 3. Na4 3... c5)
+2... Bc8 3. Nxd4 cxd4 4. Bf2 (4. Bd2 {covering two diagonals and in a position
+to support either Queenside operations by Pa3, Pb4 or advance Pf4}) 4... c5 5.
+Rf1 5... f5 6. Bg3 {to provoke ... Pf4} 6... Bd7 7. Rae1 (7. f4 7... Bc6 {
+securing united passed pawns} 8. exf5 8... e4 $1) 7... f4 8. Bf2 g5 9. g4 $2 {
+The White Rooks have no open files so can not make their weight felt. The best
+plan consists in opening a file on the Queenside, the natural method being Pa3,
+Pb4. It is possible that this was White's intention, but that he wished to see
+the Kingside closed first. This was false reason. Black does not permit the
+closing, and it transpires that the move played only provided more targets for
+attack} 9... fxg3 10. Bxg3 (10. hxg3 Bh3 11. g4 Bxf1 12. Rxf1 {Now the game
+has suddenly become a struggle between White's good Bishop at g3 against
+Black's bad one on c7. Nevertheless, Black still has the better of it, with
+more freedom of movement and with a choice of attacking lines ( ... Pa5 or ...
+Ph5)}) 10... Bh3 11. Rf2 11... h5 12. Rd2 12... h4 {The Steinitz method for
+making the best of two Bishops is in operation here: depriving the enemy
+pieces of all their best squares} 13. Bf2 Rf8 14. Rd3 Rf4 15. Kh1 Kh7 16. Rg1
+16... Bd8 17. Qe2 17... Qf7 18. Qd1 (18. Be1 g4 19. fxg4 Bxg4 20. Rxg4 Rxg4 21.
+Qxg4 Qf1+ 22. Qg1 22... Qxd3 $17) 18... Qh5 (18... g4 19. fxg4 Rxf2 20. Rxh3)
+19. Be3 Qxf3+ 20. Qxf3 Rxf3 21. Bxg5 Rxd3 22. Bxd8 22... Re3 {Destroying
+s last hope, which was based on the opposite coloured Bishops. After this move
+Black gets connected passed pawns, which will care little about the colour of
+bishops} 23. Bb6 Rxe4 24. Bxc5 Re2 25. Rd1 Bg4 26. h3 Bxh3 27. b4 Bf5 28. Bd6
+d3 29. bxa5 29... h3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Najdorf"]
+[Black "Trifunovic"]
+[Result "1-0"]
+[Annotator "04: Rook against Bishop or Knight"]
+[SetUp "1"]
+[FEN "1r3r1k/2p3q1/p2pRp1p/2bQ1Pn1/P6B/2P5/B4PP1/R5K1 w - - 0 1"]
+[PlyCount "26"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{When the enemy King's position has been weakened, the type of exchange
+sacrifice we have been discussing in the last two examples can be rapidly
+decisive, especially if the outpost on the open file is still deeper inside
+enemy territory.  Invasion point on the sixth rank} 1. Rae1 $1 1... Nxe6 2.
+fxe6 Rbe8 3. Qf5 3... d5 4. Bxd5 Be7 5. Be4 Rd8 6. f4 (6. Re3 Rd1+ 7. Kh2 Bd6+)
+6... c6 7. Kh2 Rd5 8. Bxd5 cxd5 9. Re3 9... Rg8 10. Rg3 Qf8 11. Qxd5 Rxg3 12.
+Bxg3 f5 13. Bf2 13... Kh7 1-0
+
+[Event "Mar del Plata"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Guimard"]
+[Black "Michel"]
+[Result "1-0"]
+[Annotator "04: Rook against Bishop or Knight"]
+[SetUp "1"]
+[FEN "4rrk1/2n2qpp/3p4/pppP1PB1/2b3P1/P1P1R2P/3Q1PB1/3R2K1 w - - 0 1"]
+[PlyCount "15"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Invasion point again in the sixth rank} 1. Re6 1... Nxe6 2. dxe6 Qc7 3. Bf4
+3... Qa7 4. Bxd6 Bb3 5. Bxf8 Kxf8 6. Qd6+ Qe7 7. Qxe7+ Rxe7 8. Rd8+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Bronstein"]
+[Black "Boleslavsky"]
+[Result "1-0"]
+[ECO "D89"]
+[Annotator "04: Rook against Bishop or Knight"]
+[PlyCount "63"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Bg4 12. f3 Na5 13. Bd3 13... Be6 {
+In this well known position the offer of the exchange by 14. Pd5 is very
+strong. The reason to be found in the following considerations:  I) White gets
+the Bishop pair  II) With the disappearance of the Bishop from g7, Black's ...
+Pg6 is only a weakening  III) White pawn majority in the centre, and this
+always favours the attacker. Black's Queenside majority will have more
+significance in theendgame} 14. d5 $1 14... Bxa1 15. Qxa1 15... f6 {A further w
+eakening, which, however, is unavoidable, as White is threatening to regain
+the exchange with Bh6, leaving Black with no compensation for his weakened
+Kingside} 16. Bh6 16... Qb6+ (16... Re8 17. Nf4 (17. Bb5 $4 17... Qb6+) 17...
+Bf7) 17. Kh1 $1 {
+White values his positional advantages higher than the Exchange} (17. Nd4 Bd7 (
+17... -- 18. Rb1 Qc5 19. Rc1 Qa3 20. dxe6) 18. Rb1 Qc5 19. Rc1 Qb6 20. Bxf8
+Rxf8 21. h4 Qd6) 17... Rfd8 {
+The only way to save the Exchange, but it doesn't improve Black's chances.} (
+17... Bf7) 18. Rb1 18... Qc5 $1 (18... Qf2 19. Qc3 Qh4 20. Bf4 $16) (18... Qd6
+19. Qc3 b6 20. Bf4 Qd7 (20... Qc5 21. Qxc5 bxc5 22. Bc7) 21. Bb5 $18) (18...
+Qc7 19. Bf4 Qc8 20. Rc1) 19. Bd2 (19. Rb5 Qa3 20. Bc2 Bd7 (20... Rac8 $3 {Flohr
+} 21. Bc1 (21. Qb1 Bd7 22. Bc1 Qd6 23. Rxa5 23... Qc7) (21. Nd4 Rxc2 22. Nxc2
+Qa4 23. Rxa5 (23. Qb2) (23. Nd4) 23... Qxa5 24. dxe6 Qxa2) 21... Qd6 22. Rxa5
+Rxc2 23. dxe6 Qd1+ 24. Ng1 Qxg1+ 25. Kxg1 Rd1#) 21. Bc1 Qxc1+ 22. Qxc1 Bxb5 23.
+Nd4 Bd7 24. Qa3) 19... b6 20. Bb4 Qc7 21. Rc1 Qb7 (21... Qd7 22. Nd4 Bf7 23.
+Bb5 Qb7 24. Bxa5 bxa5 25. Bc6 $16) 22. Qb1 22... Rab8 (22... Bc8 23. Nf4 {
+rapidly winning attack}) 23. dxe6 {A rook is no match for two Bishops,
+especially when the position leaves something to be desired in other respects}
+23... Nc6 24. Bc3 Ne5 25. Bb5 Rbc8 26. Bxe5 Rxc1+ 27. Qxc1 fxe5 28. Bd7 Qa6 29.
+Ng3 Qxa2 30. h4 Rf8 31. Qg5 Rf6 32. Qxf6 $1 1-0
+
+[Event "Budapest"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "1"]
+[White "Bronstein"]
+[Black "Stahlberg"]
+[Result "0-1"]
+[ECO "C93"]
+[Annotator "04: Rook against Bishop or Knight"]
+[PlyCount "92"]
+[EventDate "1968.??.??"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The exchange offset by a pawn and a preponderance in the centre} 1. e4 e6 2.
+d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Qxe7 8. Nb5 8... O-O 9.
+Nc7 cxd4 10. Nxa8 f6 11. Qxd4 11... Nc6 12. Qd2 fxe5 13. O-O-O Nf6 14. f3 Qd6
+15. Ne2 Bd7 16. Nc3 16... Rxa8 {It is a well know fact that the owner of a
+strong pawn centre often gets automatic attacking chaces. The attempt to
+achieve such a centre by an Exchange sacrifice is nothing new, and in practise
+it has been repeatedly successful. Nevertheless, its correctness must be
+questioned as we shall show in the further course of this game.} 17. Ne4 {
+Logical and strong. To give the opponent no attacking chacens, White is aiming
+to exchange minor pieces.} 17... Qe7 18. Nxf6+ Qxf6 19. Bb5 19... Nb8 $1 {
+Understandably Black prefers to exchange a bad Bishop rather than a Knight} 20.
+Qb4 Bxb5 21. Qxb5 Qf7 22. c4 {The pawn centre is demolished. White's last move
+has weakend d4, and his King's position is too open for hims to achieve his
+aims} (22. c3) 22... Nc6 $1 (22... Qc7 23. Qe8#) (22... dxc4 23. Rd8+) 23. cxd5
+23... Nd4 24. Qd3 (24. dxe6 $4 24... Qf4+) (24. Rxd4 exd4 25. dxe6 Qxe6 26. Kb1
+26... Qg6+ $17) 24... exd5 25. Rhf1 {The only possibility of undermining the
+position of the Knight consists of the pawn advance Pf4} 25... Qf4+ 26. Kb1 Rd8
+27. g3 $1 {With this pawn offer, White succeds in carrying out his plan} 27...
+Qxg3 28. f4 28... Qxd3+ 29. Rxd3 Nc6 30. fxe5 Nxe5 31. Rd4 Nc6 32. Rdf4 32...
+Ne5 {Black can not allow the invasion at f7. In material, Black has not done
+badly, with two pawns for the Exchange; but positionally things are not so
+good for him, with the White rooks connected, and the open files at their
+disposal. White is justified in playing for a wing} 33. Rf5 $2 (33. Rd4 Nc6 34.
+Rd2 d4 35. Rdf2 Ne5) 33... Nc4 34. R1f2 $2 (34. R5f2 d4 35. b3 Ne3 36. Re1 d3
+37. Rd2) 34... d4 35. b3 $2 (35. Rc5 $1 35... d3 36. Rxc4 d2 37. Rxd2 Rxd2 38.
+Rc8+ Kf7 39. Rc7+ Ke6 40. Rxb7 Rh2 41. Rb4 $11) 35... d3 $1 36. bxc4 d2 37.
+Rxd2 Rxd2 38. Rb5 b6 39. Re5 Rd4 40. c5 Rxh4 41. Re8+ Kf7 42. Ra8 Rb4+ 43. Ka1
+bxc5 44. Rxa7+ Kf6 45. Ra5 g5 46. Rxc5 g4 0-1
+
+[Event "Buenos"]
+[Site "Buenos"]
+[Date "1927.??.??"]
+[Round "3"]
+[White "Capablanca"]
+[Black "Alekhine"]
+[Result "1-0"]
+[ECO "A47"]
+[Annotator "04: Rook against Two Minor pieces"]
+[PlyCount "83"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. O-O cxd4 6. Nxd4 Bxg2 7. Kxg2 d5 8.
+c4 e6 9. Qa4+ Qd7 10. Nb5 Nc6 11. cxd5 (11. Bf4 e5) 11... exd5 12. Bf4 Rc8 13.
+Rc1 13... Bc5 $2 14. b4 $1 14... Bxb4 (14... Nxb4 15. Nd6+ Bxd6 16. Rxc8+) (
+14... Be7 15. Nd4) 15. Rxc6 15... Rxc6 16. Qxb4 Ne4 17. Nd2 Nxd2 18. Qxd2 $2
+18... O-O {Black has a pawn as well as a Rook against two minor piece, but in
+practise this is seldom enough. It is certain that the minor-piece player must
+go for the attack, for in that way he will make most of his advantage. The
+Rook player will genereally welcome  exchanges, since it is in an endgame that
+he will have drawing chances} 19. Rd1 19... Rc5 20. Nd4 Re8 21. Nb3 Rcc8 22. e3
+(22. Qxd5 Qxd5+ 23. Rxd5 Rxe2 24. Rd2 Rxd2 25. Bxd2 25... Rc2 $17) 22... Qa4
+23. Qxd5 {White, being committed to the attack, can allow Black two unitied
+passed pawns on the Queenside. From now on Black's attention will be divided
+between the two winge, and he will be unable to organize the defence of his
+King} 23... Rc2 (23... Qxa2 24. Ra1) 24. Rd2 24... Rxa2 {The best chance} (
+24... Qxa2 25. Qd7 Rf8 26. Rxc2 Qxc2 27. Nd4 Qc5 28. Nf5 -- 29. Ne7+ Kh8 30.
+Bd6 -- 31. Ng6+) 25. Rxa2 Qxa2 26. Qc6 Rf8 27. Nd4 Kh8 (27... Qa5 28. Bd6 Rd8
+29. e4 29... g6 30. Be7 Rxd4 31. Qc8+ Kg7 32. Qf8#) (27... Rd8 28. e4 h6 29.
+Be5 f6 30. Ne6 $18) (27... h6 28. Bd6 Rd8 29. e4 Qd2 30. Nf5 g6 31. Bf4 Qd7 32.
+Qf6 gxf5 33. Bxh6 Qd4 34. e5 Qe4+ 35. f3 Qe2+ 36. Kh3 Qf1+ 37. Kh4 Rd4+ 38. Kg5
+) 28. Be5 28... f6 {This weakening should be avoided if possible} (28... Rg8
+29. Bxg7+ (29. e4 29... f6 (29... Qb2 30. Nf3 Qb3 31. Ng5 f6 32. Qb5 32... Qa2
+33. Qa4 $18) (29... Qa5 30. Nf3 f6 (30... Qc5 31. Ng5 31... Qe7 32. Qh6 $1) 31.
+Bd4 Rf8 (31... h6 32. e5 fxe5 33. Bxe5 33... Kh7 34. Qc2+ Kh8 35. Qg6) 32. Qd6
+Kg8 33. Qe6+ Kh8 34. e5 fxe5 35. Nxe5 $18) 30. Bxf6 gxf6 31. Qxf6+ Rg7 32. Ne6
+$18) 29... Rxg7 30. Qe8+ Rg8 31. Qe5+ Rg7 32. Nf5 f6 33. Qxf6 Qd5+ 34. Kh3
+34... Qd7 $11 35. Qf8+) 29. Ne6 29... Rg8 30. Bd4 h6 (30... a5 31. Nxg7 Rxg7
+32. Qxf6 Qg8 33. h4) 31. h4 Qb1 32. Nxg7 {The decisive combination. White has
+carried out his plan with great singleness of purpose} 32... Qg6 (32... Kxg7
+33. Qxf6+ Kh7 34. Qf7+) (32... Rxg7 33. Qxf6 Qe4+ 34. Kg1 (34. Kh2 {
+Further away from the a-pawns}) 34... Qb7 (34... Qb1+ 35. Kh2 Qh7 36. Qf8+) 35.
+Qxh6+ Kg8 36. Qxg7+ Qxg7 37. Bxg7 37... Kxg7 $18) 33. h5 33... Qf7 34. Nf5 Kh7
+35. Qe4 35... Re8 36. Qf4 36... Qf8 37. Nd6 Re7 38. Bxf6 Qa8+ 39. e4 Rg7 40.
+Bxg7 Kxg7 41. Nf5+ 41... Kf7 42. Qc7+ {mate in two} 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Tartakower"]
+[Black "Bogolyubov"]
+[Result "0-1"]
+[ECO "D13"]
+[Annotator "04: Rook against Two Minor pieces"]
+[PlyCount "112"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The minor piece side posses two Bishops} 1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3
+Nf6 5. Nf3 Nc6 6. Bf4 e6 7. e3 Be7 8. Bd3 O-O 9. a3 Nh5 10. Be5 f6 11. Ng5
+11... g6 12. Nxh7 12... fxe5 (12... Kxh7 13. Qxh5+ Kg8 14. Qxg6+ Kh8 15. Qh7#)
+13. Nxf8 Bxf8 14. Bxg6 14... Nf6 {White has a Rook and two pawns against two
+minor pieces; moreover, Black's Kingside is completely demolished. One would
+think that White must hace more than sufficient compensation. There is
+nevertheless one factor in the position which will make White's game very
+difficult - namely, Black's two Bishops} 15. g4 15... Nh7 16. h4 16... Bg7 17.
+Bxh7+ {White is compelled by the pressure on d4 to take this drastic measure} (
+17. dxe5 Nxe5 18. Bc2 Nc4 19. Qd3 Nf8 20. O-O-O 20... Bd7 {strong attack})
+17... Kxh7 18. Qc2+ Kh8 19. dxe5 Nxe5 20. O-O-O 20... Bd7 21. h5 21... Rc8 22.
+h6 Bf8 23. g5 {Black is not interested in winning the g-pawn, thereby giving
+the White Rooks an opportunity of showing their paces on the g-file. Rather he
+concentrates all his strength against White's King position, the two Bishops
+giving invaluable service} 23... Be8 24. f4 Bg6 25. e4 25... Nc4 (25... Bxe4
+26. Qxe4 dxe4 27. Rxd8 Rxd8 28. fxe5) 26. Qd3 26... Qb6 {
+Forcing White to simplify} (26... Bxe4 27. Qd4+ e5 28. Qxe4 dxe4 29. Rxd8 Rxd8
+30. f5 $13) 27. Qd4+ Qxd4 28. Rxd4 Bc5 29. f5 $1 {White's best counterchance} (
+29. Rdd1 29... Be3+ $19) 29... exf5 {Black prefers to keep his Bishop pair} (
+29... Bxd4 30. fxg6 30... Be3+ $2 (30... Nxa3 31. bxa3 Bxc3) 31. Kb1 Nxa3+ 32.
+bxa3 Rxc3 33. g7+ Kh7 34. g6+ $18) 30. Rxd5 fxe4 31. Kb1 {
+The Knight must be unpinned} (31. Kd1 $4 31... Ne3+) 31... e3+ 32. Ka1 32...
+Nb6 33. Re5 33... Bd4 34. Re6 34... Bf5 (34... Rxc3 35. Rxg6 $1 (35. bxc3 Bxc3+
+36. Ka2 Bf7) (35. Rxb6 axb6 36. bxc3 Bxc3+ 37. Ka2 e2)) 35. Re7 Nc4 36. Rh4
+36... Nxa3 $1 {Notice how Black is always careful to keep his two bishop,
+making no use of the chance of winning White's c-pawn} 37. bxa3 Bxc3+ 38. Ka2
+Bd2 39. Rf4 Bh7 40. Rd4 (40. Rff7 Bg8) 40... Bg8+ 41. Kb1 Bh7+ 42. Ka2 Rg8 43.
+Rdd7 Bf5 44. Rxb7 a5 45. a4 (45. Rb3 Bc2) 45... Bd3 46. Rbd7 e2 47. Rxd3 e1=Q
+48. Rxe1 Bxe1 49. Rd5 Kh7 50. Kb3 Kg6 51. Kc4 Rb8 52. Rb5 Re8 53. Rd5 Re4+ 54.
+Rd4 Rxd4+ 55. Kxd4 Bd2 56. Kc4 Bxg5 0-1
+
+[Event "Goetborg"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Spielmann"]
+[Black "Moller"]
+[Result "1-0"]
+[ECO "C33"]
+[Annotator "05: Queen against Two Minor pieces"]
+[PlyCount "55"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The minor pieces have an attack on the king} 1. e4 e5 2. f4 exf4 3. Qf3 Nc6 4.
+c3 Nf6 5. d4 d5 6. e5 Ne4 7. Bb5 $2 7... Qh4+ 8. Kf1 g5 9. Nd2 Bg4 10. Nxe4
+Bxf3 11. Nxf3 Qh6 12. Nf6+ 12... Kd8 {Under normal circumstances the two minor
+pieces will clearly get the worst of it against the Queen; but the purpose of
+this example is to show that given favourable conditions the minor pieces can
+make things very difficult - say difficult, indeed, that the Queen may even
+have to pay the piper.   Here White has some lead in development, while the
+Black king must stay in the middle for the time being. To make use of these
+factors, White must attack at once.} 13. h4 $1 13... Be7 (13... g4 14. Ng5
+14... Qg6 15. Bxf4) 14. Nxg5 Qg6 15. Nxd5 15... Bxg5 16. hxg5 16... Qc2 {
+Queen is not well placed} (16... Qxg5 {stronger}) 17. Be2 17... Ne7 (17... Kd7
+18. Bg4+) 18. Nxf4 18... c5 {Black takes his task to lightly} (18... c6) 19.
+Rh3 $1 19... cxd4 $2 (19... Kc7 20. d5) (19... Qf5 20. g4 Qd7 21. d5 $13) 20.
+Rd3 20... Kc7 (20... Qa4 21. Rxd4+) 21. Bd1 21... Qxd3+ 22. Nxd3 dxc3 23. bxc3
+Rad8 24. Be2 Nf5 25. Bf4 Kb8 26. Rb1 b6 27. e6+ Kc8 28. Ne5 1-0
+
+[Event "New York"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Marshall"]
+[Black "Halper"]
+[Result "1-0"]
+[ECO "C44"]
+[Annotator "05: Queen against Two Minor pieces"]
+[PlyCount "55"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 d6 6. Qb3 Qd7 7. Qxc3 $2 7...
+d5 8. exd5 Bb4 9. dxc6 Bxc3+ 10. Nxc3 bxc6 11. O-O {The game is open, so that
+the Bishops come into their own all the better. For Black it is now essential
+to finish development} 11... Ne7 $2 (11... Qf5 12. Re1+ Be6) (11... Nf6 12.
+Re1+ Kf8 13. Be3 13... h6 14. Bc5+ Kg8 15. Re7 {winning attack}) 12. Bxf7+
+12... Kf8 (12... Kxf7 13. Ne5+ {
+White has a better pawn structure and hence endgame}) 13. Bb3 Bb7 14. Be3 14...
+Nf5 (14... Nd5 15. Bc5+ Kg8 16. Ne5 Qe6 17. Rae1 {
+Black is at a loss for a good continuation} 17... Re8 (17... Rd8 18. f4 18...
+h6 19. f5 Qf6 20. Ng6 Kh7 21. Ne4 {wins the queen}) 18. Nxc6 {R. Fine}) 15.
+Bc5+ 15... Nd6 16. Nd4 {Black can not get his Rooks into play} 16... Re8 17.
+Rfe1 17... h5 {This loses the Exchange, so that White already has Rook and
+bishop for the Queen} (17... Rxe1+ 18. Rxe1 h5 19. Ne6+ Kf7 20. Nxc7+) 18. Ne6+
+18... Rxe6 (18... Kf7 19. Nxc7+) 19. Bxe6 Qd8 20. Re5 20... Rh6 {
+At last the Rook puts in an appearance, but it is far too late now} 21. Rae1
+21... Bc8 22. Bb3 Bd7 23. Be3 23... Nf5 (23... Rh8 24. Bg5) (23... Rg6 24. Rxh5
+Nf7 25. Bc5+ Kg8 26. Re7 Rf6 27. Ne4) 24. Bxh6 gxh6 25. Ne4 25... Kg7 26. Nc5
+Kf6 (26... Bc8 27. Re8 27... Qd4 28. Rxc8) 27. Nxd7+ 27... Qxd7 28. Be6 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kmoch"]
+[Black "Prins"]
+[Result "1-0"]
+[ECO "D97"]
+[Annotator "05: Queen against three minor pieces"]
+[PlyCount "35"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{A well known position in the Grunfeld Defence} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4.
+Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 7... b6 $2 8. e5 8... Be6 9. exf6 9...
+Bxc4 10. fxg7 Kxg7 11. Bxc4 {White dominats the game. An examination of the
+position revelas that Black can undertake nothing, while hiw own position is
+beset with perils.  It is noteworthy that it is the weakening produced by the
+fianchetto which particularly hampers him. If only the b-pawn were unmoved,
+his game might get be tenable.} 11... Nc6 12. Be3 Nb4 (12... Na5) 13. O-O Nc2
+14. Rad1 Nxe3 15. fxe3 15... c5 {A blunder which puts an untimely end to the
+fight. Even with best play the game could not have been saved in the long run.}
+16. Ng5 $1 16... e6 17. Rxf7+ $1 17... Rxf7 (17... Kh6 18. Rxh7+ Kxg5 19. h4+
+19... Kg4 20. Be2+ Rf3 (20... Kg3 21. Ne4#) 21. Bxf3+ Kf5 22. Rf7+ Qf6 23. g4#)
+18. Nxe6+ 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Fine"]
+[Black "Grunfeld"]
+[Result "1-0"]
+[ECO "D39"]
+[Annotator "05: Queen against three minor pieces"]
+[PlyCount "103"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 dxc4 5. e4 5... Bb4 6. Bg5 6... c5 7. e5
+cxd4 8. Qa4+ Nc6 9. O-O-O Bd7 10. Ne4 Be7 11. exf6 gxf6 12. Bh4 Nb4 13. Qxb4
+13... Bxb4 14. Nxf6+ Kf8 15. Rxd4 15... Qa5 16. Nxd7+ Ke8 17. Nf6+ 17... Kf8 {
+Due to the insecure Black King, the minor-piece player here has a very
+favourable game, if not an outrightwin} 18. Bxc4 (18. Ne5 h5 19. Ned7+ (19.
+Bxc4 Rc8 20. Kb1 Be7 21. Rhd1 Kg7 22. Ned7) 19... Kg7 20. Bxc4 Rhc8 21. Kb1 Bc3
+22. Re4 Bxb2 23. Kxb2 Qd2+ 24. Kb1 b5 25. Bb3 Qd3+ 26. Ka1 26... Qc3+ $11 {
+Gereben-de Groot, Munich 1936}) 18... Rc8 19. Kb1 h5 20. Rhd1 Be7 21. Nd7+ {
+White parries the threat easily, still strengthening his position} (21. -- Bxf6
+22. Bxf6 Qf5+) (21. -- Kg7 22. -- Rhd8) 21... Ke8 22. Bg3 {
+maintaining the pressure} (22. Bxe7 22... Kxe7 {
+only helping Black's development}) 22... Rg8 23. h3 23... Rg7 24. a3 {
+An innocent looking move, but in reality a good one. The explanation is that
+Fine intends to estabilsh a Knight or Bishop on f6, and must first move his
+King to a2 to avoidQf5+} 24... b5 {seeking counterplay} 25. Bb3 b4 (25... Qa6
+26. Be5 Rxg2 27. Nf6+ Kf8 28. Nxh5 {some counterplay for Black}) 26. axb4 Bxb4
+27. Be5 Rxg2 28. Rxb4 $1 {diagonals} 28... Qxb4 29. Nf6+ 29... Ke7 30. Rd7+
+30... Kf8 31. Bd6+ 31... Qxd6 32. Rxd6 Rxf2 33. Rd3 {
+With three pieces against Rook and three pawns, White has an easily won game}
+33... Ke7 34. Nxh5 Rf1+ 35. Bd1 Rg8 36. Nd4 e5 37. Nc6+ Ke6 38. Ka2 Rxd1 39.
+Rxd1 Rg5 40. Nf4+ exf4 41. Nd4+ Kf6 42. Rf1 Ra5+ 43. Kb1 Ra4 44. Nf3 Re4 45.
+Re1 Re6 46. Rxe6+ fxe6 47. Kc2 e5 48. Kd3 Kf5 49. Nd2 Kg5 50. Ke4 Kh4 51. Kxe5
+Kxh3 52. Kxf4 1-0
+
+[Event "Saltsjobaden"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Najdorf"]
+[Black "Ragozin"]
+[Result "0-1"]
+[ECO "D98"]
+[Annotator "05: Queen Against Rook and Bishop/Knight"]
+[PlyCount "100"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 8.
+Ng5 Nc6 9. d5 Ne8 10. h3 (10. dxc6 10... Bxc3+ 11. Qxc3 Qd1#) 10... Ne5 11. Qb3
+Bc8 12. Be2 12... c6 13. O-O cxd5 14. Nxd5 Nc6 15. Nf3 Nd6 16. Rd1 Be6 17. Qa3
+Nxe4 18. Nf6+ Nxf6 19. Rxd8 19... Rfxd8 {Rook, Knight and pawn generally mean
+full compensation for the Queen. In the present case there is a little
+positional advantage as well, consisting of a lead in development sufficient
+at least to ensure the advance of Black's centre pawn. The extra freeedom of
+movement which must result from this gives Black the better chances} 20. Bd2 $2
+{This enables Black to improve the placement of his Knight with gain of tempo.}
+(20. Bg5) (20. Be3) 20... Ne4 21. Be3 Nd6 22. Rc1 (22. Re1 Nf5 (22... Nc4 23.
+Bxc4 Bxc4 24. b3 24... Bd5 {Two bishops would being to pull their weight}) 23.
+Bc1) 22... Nf5 23. Bf4 {This allows Black to advance his centre pawn with gain
+of tempo. White however has not enough points of contact for forming a sound
+plan since he exerts so little influence in the centre} (23. Bc4 {Pirc} 23...
+Bxc4 24. Rxc4 e5) (23. Bc5 b6 24. Be3 Bd5) (23. Ng5 23... Nxe3 (23... Bd5 24.
+Bf3 Nxe3 25. Qxe3 Bxb2 26. Rb1 Bd4 27. Qf4 $132) 24. Nxe6 Rd6 25. Nxg7 Nd5 26.
+Nh5 26... gxh5 {White reagins his pawn, attaining a material advantage}) 23...
+Bd5 24. Bc4 Bxc4 25. Rxc4 25... e5 26. Bg5 (26. Bd2 {
+rather than drive the Rook to a better square
+}) 26... Rd1+ 27. Kh2 h6 28. Rc1
+Rd7 29. Be3 29... e4 {opens the diagonal for the Bishop, and sets up a
+splendid strongpoint at d3 for the other pieces} 30. Ne1 Rad8 31. Bc5 (31. Bf4
+g5 32. Be3 Be5+ 33. g3 Nxe3 34. Qxe3 34... f5) 31... Be5+ 32. g3 (32. Kg1 32...
+Rd2 33. Rb1 (33. Rc2 Rxc2 34. Nxc2 Rd1+ 35. Ne1 Rxe1#) 33... Re2) 32... Rd2 {
+Wins a pawn} 33. Rc2 33... Bxg3+ 34. Kg2 {a cunning trap} 34... Be5 (34... Bxf2
+35. Bxf2 e3 36. Qc3 exf2 37. Rxd2 fxe1=Q 38. Rxd8+) 35. Kf1 35... Rxc2 {
+This is an inexactitude. It was not necessary to relieve White of his poorly
+placed Rook by exchange.} (35... Rd1) 36. Nxc2 Rd1+ 37. Ke2 (37. Kg2 Nh4#)
+37... Rb1 38. b4 Rb2 39. Kd1 Rb1+ 40. Kd2 40... Bf6 {
+initiating the decisive attack} 41. Bxa7 Ne5 42. Qa4 Nf3+ 43. Ke2 Ng1+ 44. Kd2
+Nf3+ 45. Ke2 Nd6 46. Qd7 (46. -- b5 47. Qa5 47... Nc4) 46... Ng1+ 47. Ke3 47...
+Rd1 48. Nd4 Rd3+ 49. Kf4 49... Ne2+ 50. Kg4 (50. Nxe2 Rf3+ 51. Kg4 h5#) 50...
+h5# 0-1
+
+[Event "Zandvoort"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Euwe"]
+[Black "Grunfeld"]
+[Result "1-0"]
+[ECO "D28"]
+[Annotator "05: Queen Against Rook and Bishop/Knight"]
+[PlyCount "55"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The owner of the Queen is on the attack} 1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3
+e6 5. Bxc4 Nf6 6. O-O c5 7. Qe2 7... Nc6 8. Rd1 8... b5 9. Bb3 c4 10. Bc2 Nb4
+11. Nc3 Nxc2 12. Qxc2 Bb7 13. d5 13... exd5 14. e4 14... Be7 15. e5 Nd7 16.
+Nxd5 O-O 17. Qf5 Nc5 18. Nf6+ 18... Bxf6 19. Rxd8 19... Bxd8 {In contrast with
+the previous examples, the respective chances are sharply defined. White must
+attack the King, helped by his pawn on e5; Black must make use of the d-file
+and his Queenside pawn majority. His possession of the outpost at d3 is
+obviously an important trump} 20. Ng5 {Forcing Black to relinquish the Bishop
+pair, for if he should weaken his King's position instead, White's material
+advantage would soon be decisive.} 20... Bxg5 21. Bxg5 {The strong position of
+this Bishop deprive Black of any opportunity of playing for control of the
+d-file. The Bishop can't be repulsed except by pushing up the pawns which
+protect the King} 21... Rfe8 (21... Be4 {defending the Kingside}) 22. Re1 {
+preventing the manouvre} 22... Re6 23. Re3 23... Rae8 $2 {
+This must be considered the decisive mistake} (23... h6 24. Bf6 Nd7) 24. h4
+24... h6 25. Bf6 $1 25... g6 (25... -- 26. Rg3 g6 27. Rxg6+) (25... gxf6 26.
+exf6) (25... Nd7 26. Rg3 Nxf6 27. exf6 Re1+ 28. Kh2) 26. Qf4 26... Kh7 27. Bg5
+$1 27... f5 (27... hxg5 28. Qxf7+ Kh6 (28... Kh8 29. hxg5) 29. hxg5+ Kxg5 30.
+Rg3+ Kh6 31. f4) 28. exf6 {Black resigned, helpless against the many threats}
+1-0
+
+[Event "Match"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Janowsky"]
+[Black "Lasker"]
+[Result "1-0"]
+[Annotator "05: Queen against Two Rooks"]
+[SetUp "1"]
+[FEN "4rk2/1ppn1p1p/p2p1P2/8/5P2/1P3Q2/PBP2KPP/4r3 w - - 0 1"]
+[PlyCount "19"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The Queen on the attack  It is true enough that two Rooks are generally
+stronger than the Queen, but in positions where the player with the Rooks has
+his King exposed, so that it can be checked from left and right, things are
+different. The Queen's great mobility gives her all sorts of chances. The pawn
+on f6 guarantees White a winning advantage.} 1. Qxb7 $2 (1. Qh5 {
+would have been decisive} 1... R8e2+ (1... R8e6 2. f5 R6e4 3. Bc3 R1e3 4. Qh6+)
+(1... R8e4 2. Qxh7 Ke8 3. h4) (1... R8e3 2. Bc3 {forces transition to an ending
+}) 2. Qxe2 Rxe2+ 3. Kxe2 {easy endgame}) 1... R1e2+ 2. Kf3 Rxc2 3. Bd4 a5 4.
+Qb5 Nc5 5. Qxa5 Nd3 6. Be3 (6. -- Ne1+ 7. Kg4 Rxg2+) 6... d5 7. Bd2 $1 {
+Because White had wandered off on a side track, the Black rooks were suddenly
+becoming very active.} (7. -- Ne1+ 8. Qxe1 8... d4 9. Qb4+ c5) 7... c5 8. Kg3
+Nc1 (8... d4 9. f5 Nc1 (9... -- 10. Bh6+ Kg8 11. Qb5) (9... Ne5 10. Bh6+ Kg8
+11. Qb5 Rd8 12. Qf1 d3 13. Qe1 $1 13... d2 (13... Nc6 14. Qe3) 14. Bxd2 Rcxd2
+15. Qxe5) 10. Bh6+ Kg8 11. Qb5 Rd8 12. Qf1 Nxa2 13. Qf4 $18) 9. Bxc1 Rxc1 10.
+Qd2 {Black's trump (the passed pawn) is gone} 1-0
+
+[Event "Mahrisch-Ostrau"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Euwe"]
+[Black "Rubinstein"]
+[Result "1-0"]
+[ECO "D05"]
+[Annotator "05: Queen against Two Rooks"]
+[PlyCount "75"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The Rooks on the attack} 1. Nf3 d5 2. d4 Nf6 3. e3 e6 4. Bd3 c5 5. b3 Nc6 6.
+O-O Bd6 7. Bb2 O-O 8. a3 b6 9. Ne5 Bb7 10. Nd2 Qe7 11. f4 Rfd8 12. Rf3 Ne4 13.
+Rh3 f5 14. Bxe4 dxe4 15. Qh5 Bxe5 16. Qxh7+ Kf7 17. fxe5 Rh8 18. Qxh8 Rxh8 19.
+Rxh8 {To show their full strength, Rooks must cooperate and this cooperation
+is not apparent. However, White is threatening to bring it about by bringing
+his Queen rook to f4} 19... Ba6 {The best countermove. This not only stops Rf1,
+but also prevents the Knight from travelling via c4 to the dominating d6 post}
+20. Nf1 20... Qd7 $2 {
+After this inferior move, White's advantage is decisively strengthened} (20...
+Bxf1 21. Rxf1 21... Qg5 $132 22. Rf4 22... cxd4) 21. Rd1 {
+A pawn sacrifice in the interests of better cooperation among White's pieces}
+21... Nxe5 22. d5 $1 {
+Attacking the Knight so that Black cannot prevent the opening of the d-file!}
+22... Ng4 23. dxe6+ Qxe6 24. Rhd8 {
+The aim is accomplished, and White now threatens to end the game with R1d7+}
+24... Bb5 25. c4 Be8 26. R1d5 26... f4 $1 {Black's best counterchance} (26...
+Nf6 27. Re5) 27. h3 (27. exf4 $2 27... e3) 27... fxe3 28. Ng3 28... e2 (28...
+Nf6) 29. Nxe2 Ne3 30. Rg5 30... g6 31. Nf4 Qe7 32. Rxg6 $1 32... Nf5 (32...
+Qxd8 33. Rg7+ Kf8 34. Ne6#) 33. Rf6+ Kg8 34. Rxe8+ 34... Qxe8 35. Rxf5 e3 36.
+Rg5+ Kh7 (36... Kf8 37. Ng6+ Kf7 38. Nh8+ Kf8 39. Re5) 37. Rh5+ Kg8 38. Rh8+
+1-0
+
+[Event "Nuremberg"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Chigorin"]
+[Black "Forgacs"]
+[Result "1-0"]
+[ECO "C55"]
+[Annotator "06: Vanished Centre"]
+[PlyCount "73"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The significance of a lead in development (analysis by Dr. Tarrasch)} 1. e4 e5
+2. Nc3 Nf6 3. Nf3 Nc6 4. Bc4 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bd6 8. d4 exd4
+9. Nxd4 Nxd4 10. Qxd4 10... O-O {This example shows in striking fashion how a
+small advantage can, with exact play, assume decisive significance} 11. Be3 Qe7
+12. O-O-O $1 {Now white needs only one more move (Rhe1) to complete his
+development. Black needs at least three.} 12... Be5 13. Qd3 13... f5 14. Bd5+
+Be6 15. Rhe1 15... Kh8 {
+Black is in serious trouble, since he is well behind in development} (15...
+Rfd8 16. Bxe6+ Qxe6 17. Qxd8+ Rxd8 18. Rxd8+ $16) 16. Bxe6 Qxe6 17. Kb1 {
+By evading the intermediate check from f4, White now threatens Bd4.} (17. Bc5
+Rfe8 18. Kb1 Qc6 19. Ba3 Qxg2 20. Qxf5 20... Bxh2 {game continuation}) 17...
+Qf6 18. Bd4 18... Bxd4 (18... Rae8 19. Qe2 Bxd4 20. Qxe8) 19. Qxd4 Qxd4 20.
+Rxd4 20... Rfe8 $1 (20... Rad8 21. Rxd8 Rxd8 22. Kc1) 21. Re3 $1 21... Rxe3 22.
+fxe3 Kg8 23. Rd7 23... Re8 {
+In this sort of position, counterattack is always the best form of attack} 24.
+Rxc7 (24. Kc1 Rxe3 25. Kd2 {also strong}) 24... Rxe3 25. Kc1 Re2 26. g3 b6 27.
+Rxa7 Rxh2 28. Ra6 Rh3 29. Rxb6 29... Rxg3 {The position is still remarkably
+symmetrical, but White has nursed his lead in development to decisive
+proportions} 30. a4 30... Re3 31. a5 Re8 32. a6 Ra8 33. b4 33... h5 34. b5 h4
+35. Rc6 {White is winning due to the threat to} 35... -- (35... h3 36. Rc3) 36.
+b6 Rxa6 37. b7 1-0
+
+[Event "Bad Sliac"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Maroczy"]
+[Black "Spielmann"]
+[Result "1-0"]
+[ECO "C01"]
+[Annotator "06: Queen's Pawn Centre"]
+[PlyCount "81"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The significance of the support point c5} 1. e4 e6 2. d4 d5 3. exd5 exd5 4.
+Bd3 Nc6 5. c3 Bd6 6. Nf3 Nge7 7. O-O Bg4 8. Re1 Qd7 9. Nbd2 9... O-O-O {
+The treatment of this opening is an example of how Black can avoid symmetry.
+The sequel shows, however, that he has pursued the idea too far. He should
+have castled Kingside.  } 10. b4 $1 {After castling on opposite sides, it
+important to seize the initiative as quickly as possible} 10... Ng6 11. Nb3
+11... Rde8 12. Be3 Nh4 13. Be2 Bxf3 14. Bxf3 Ne7 15. Be2 Nef5 16. Bg5 16...
+Nxg2 $5 {
+Spielman embarked on this promising, but ultimately incorrect piece sacrifice}
+(16... -- 17. Bxh4 Nxh4 18. Nc5 {winning position}) 17. Kxg2 f6 18. Bd2 Nh4+
+19. Kh1 19... h5 20. Bf1 20... Qf5 21. f4 g5 (21... Bxf4 22. Bxf4 Qxf4 23. Qd2
+Qf3+ 24. Kg1 Qf5 25. Qf2 Nf3+ 26. Kh1) 22. Qb1 $1 22... Re4 23. Qd3 g4 24. Nc5
+Bxc5 25. bxc5 Nf3 26. Re2 Rhe8 27. Rf2 c6 28. Rxf3 $1 {
+The easiest way to win. Now White has two powerful Bishops against a rook}
+28... gxf3 29. Qxf3 Qd7 30. Bh3 f5 31. Qxh5 Kb8 32. Bxf5 Qe7 33. Qg5 $1 (33.
+Bxe4 Qxe4+ 34. Kg1 Rg8+ 35. Kf2 Qg2+ 36. Ke3 Qe4+ 37. Kf2 $11) 33... Re2 34.
+Qxe7 R8xe7 35. Rd1 Rg7 36. Bd3 Rf2 37. f5 a5 38. a4 Ka7 39. Be1 Ra2 40. Bg3 Rf7
+41. Be5 1-0
+
+[Event "?"]
+[Site "GRONINGEN"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Tartakower"]
+[Black "Botvinnik"]
+[Result "0-1"]
+[ECO "C01"]
+[Annotator "06: Queen's Pawn Centre"]
+[PlyCount "108"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Breaking the symmetry by advancing the c-pawn} 1. e4 e6 2. d4 d5 3. exd5 exd5
+4. Nf3 Bd6 5. c4 Nf6 (5... dxc4 {
+Isolating White's d-pawn but White's pieces could become active}) 6. c5 Be7 7.
+Bd3 7... b6 8. cxb6 (8. b4 8... a5 $1) 8... axb6 9. O-O 9... O-O {In itself the
+advance of the c-pawn constitutes a weakening of White's pawn structure. 
+ White's d-pawn is vulnerable, but Black's c-pawn is no less so} 10. Nc3 (10.
+Bg5 {More solid, now the pin on f3 is annoying}) 10... Bg4 11. h3 Bh5 12. g4 {
+An energetic weakening of the Kingside} (12. Be2 12... Ne4 $36 (12... c6 13. --
+Bd6 14. -- Nbd7 15. -- Re8)) 12... Bg6 13. Ne5 13... Bxd3 14. Qxd3 c6 15. Bg5
+$2 15... Nxg4 $1 16. Nxc6 (16. Bxe7 Nxe5 17. Bxd8 Nxd3 18. Bxb6 Nxb2) (16. hxg4
+16... Bxg5 17. Kg2) 16... Nxc6 17. Bxe7 Nxe7 18. hxg4 18... f5 19. Rae1 {
+A temporary sacrifice by Which White saves himself from being immediately
+overrun on theKingside} 19... fxg4 20. Re5 20... Rf3 21. Qb5 21... Ng6 $1 (
+21... -- 22. Rxe7 Qxe7 23. Qxd5+) 22. Rxd5 (22. Qxd5+ Qxd5 23. Rxd5 Nf4 24. Rb5
+Rf8 25. Rxb6 g3 26. fxg3 26... Nh3+) 22... Qf6 23. Rg5 Rf8 24. Ne4 Qf4 25. Qd5+
+Kh8 26. Rh5 26... Rh3 (26... h6 27. Qe6 27... Re3 $1 28. Qxg6 Rxe4 29. Rh4 Rxd4
+30. Qxb6 Rd2) (26... g3 27. Ng5 gxf2+ 28. Kh1 $14) 27. Rxh3 gxh3 28. Ng3 Nh4
+29. Qe4 Nf3+ 30. Kh1 Qxe4 31. Nxe4 Rf4 32. Rc1 h6 33. Rc3 g5 34. d5 g4 35. Re3
+Rf5 36. Nc3 Rf6 37. Re6 Kg7 38. Rxf6 Kxf6 39. d6 Ke6 40. Nd5 Kxd6 41. Nxb6 h5
+42. Nc4+ Kd5 43. Ne3+ Ke4 44. a4 Kd3 45. Nd5 Ke2 46. Nf4+ Kxf2 47. Nxh3+ Kf1
+48. Nf4 g3 49. Ng2 Kf2 50. a5 h4 51. Nf4 Kf1 52. Ng2 h3 53. Ne3+ Kf2 54. Ng4+
+Ke2 0-1
+
+[Event "AVRO"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Fine"]
+[Black "Alekhine"]
+[Result "1-0"]
+[ECO "C76"]
+[Annotator "06: King's Pawn Centre"]
+[PlyCount "91"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 g6 7. d4 Bg7 8. dxe5
+Nxe5 9. Nxe5 9... dxe5 {
+White leads in development; to make use of this fact he presses on with ...}
+10. f4 $1 {This looks premature, but is in fact very strong} 10... Bxa4 (10...
+Ne7 11. fxe5 Bxe5 12. Bxd7+ Qxd7 13. Qb3 $36) (10... exf4 11. Bxf4 Bxa4 12.
+Qxa4+ Qd7 13. Qxd7+ Kxd7 14. Bxc7 $1 14... Kxc7 15. Rxf7+ {
+White wins three pawns}) 11. Qxa4+ 11... Qd7 {
+This temporary pawn sacrifice is practically forced} (11... b5 12. Qb3) 12.
+Qxd7+ Kxd7 13. fxe5 Ke6 14. Bf4 14... Rf8 {Black must hurry to regain the pawn}
+(14... Ne7 15. Nd2 Nc6 16. Nf3 {White threatens awful checks at d4 and g5}) 15.
+Nd2 15... Bxe5 16. Nb3 {This clearly shows the vulnerability of Black's King}
+16... Bxf4 17. Rxf4 (17. Nc5+ Kd6 18. Nxb7+ Kc6 19. Na5+ 19... Kb5 $17) 17...
+b6 18. a4 {To take advantage of the forced weakening of the pawns by Pa5} 18...
+Ke5 (18... a5) 19. g3 $1 {Simple, but extremely strong; now Black threatens
+Rd1, and leaves Black no time to consolidate his Queenside} (19. Raf1 19... f5
+$11 20. g4 Ne7) 19... Nf6 (19... g5 20. Rf5+ Kxe4 21. g4) 20. Nd2 20... Nh5 {
+Knight is out of play} (20... Nd7) 21. Rf2 Ke6 (21... a5 22. b4) 22. a5 $1
+22... Ra8 (22... b5 23. Nb3) 23. Raf1 $1 {White advantage has become decisive}
+23... Rad8 (23... Raf8 24. g4 Ng7 25. axb6 cxb6 26. Rf6+ Ke7 27. Rxb6 $16) 24.
+Nf3 Ke7 (24... f6 25. Nd4+ Kd7 26. g4 Ng7 27. Rxf6) 25. axb6 cxb6 26. Ng5 h6 (
+26... f6 27. Nxh7 Rxh7 28. g4) 27. Rxf7+ Kd6 28. Nf3 g5 29. Nd4 Rhe8 30. Rh7
+Rh8 31. Rff7 Rxh7 32. Rxh7 Rf8 33. Rxh6+ Nf6 34. Nf3 Kc5 35. Nd2 g4 36. Rg6 Nd7
+37. Rxg4 Ne5 38. Rg5 Kd6 39. Rf5 Rd8 40. Nf3 Nd3 41. Rd5+ Ke7 42. Rxd8 Kxd8 43.
+b3 Ke7 44. Nd2 a5 45. Kf1 b5 46. Ke2 1-0
+
+[Event "Hastings <ENG>"]
+[Site "Hastings <ENG>"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Thomas"]
+[Black "Rubinstein"]
+[Result "0-1"]
+[ECO "C77"]
+[Annotator "06: Symmetrical Four Pawns Centre"]
+[PlyCount "82"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Black prevents the advance of the f-pawn} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4
+Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 O-O 8. O-O d6 9. d3 Ne7 10. Bg5 Ng6 11. Nh4 {
+At move 10 White was wrong to omit the powerful advance d4, but now, at move
+11 it would have been less strong since, Black would not have taken the d-pawn,
+but could have maintained the centraltension} (11. d4 Bb6 12. Nbd2 h6 13. Be3)
+11... Nxh4 12. Bxh4 12... h6 {Well played, Black is going to play ... Pg5,
+holding back White's threatened Pf4} 13. Kh1 13... g5 14. Bg3 Kg7 15. Nd2 Qe7
+16. Bc2 {Apparently with the intention of Nb3 preparing to advance Pd4. The
+Bishop was well placed on b3} (16. Rfe1 {more consistent}) 16... Bd7 17. Rfe1
+$2 (17. Nb3 Bb6 18. d4) 17... Rae8 18. a4 $2 {
+The a-file holds no prospects for White} 18... Rh8 19. axb5 axb5 20. Nf1 $2 {
+Now Black seizes a Kingside initiative} 20... h5 21. f3 h4 22. Bf2 Bxf2 23.
+Qxf2 23... g4 24. fxg4 Nxg4 25. Qf3 h3 26. g3 $8 (26. gxh3 Rxh3 27. Qxh3 Nf2+)
+(26. -- hxg2+ 27. Qxg2 27... Reg8) 26... Qg5 27. Ne3 27... Ra8 $1 {
+now Black vies for control of the a-file, this shows the weak side of 18. Pa4}
+28. Nxg4 Bxg4 29. Qf2 Rxa1 30. Rxa1 30... Ra8 $3 31. Rb1 (31. Rxa8 Qc1+ 32. Qg1
+Bf3#) (31. Qe1 Rxa1 32. Qxa1 Bf3+ 33. Kg1 Qe3+ 34. Kf1) 31... b4 $1 32. Bb3 (
+32. cxb4 32... Rb8 {
+the many weaknesses in white's position must mean his downfall}) 32... f6 33.
+c4 (33. Bd5 33... bxc3 $3 34. Bxa8 (34. bxc3 Ra3) 34... c2 35. Qxc2 35... Qe3
+36. Rf1 Bf3+ 37. Rxf3 Qe1+) 33... f5 34. Kg1 fxe4 35. Rf1 (35. dxe4 Rf8 36. Qe1
+Bf3 37. Bc2 Bg2 38. Qe2 Rf3 39. Re1 Rxg3 40. hxg3 40... Qxg3) 35... e3 36. Qf7+
+Kh8 37. Qd5 37... c6 {The initiation of a superb climax} 38. Qxc6 38... Rc8 39.
+Qe4 e2 40. Re1 40... d5 {Since the White Queen can't leave e4 because} 41. cxd5
+(41. Qxd5 Qe3+ 42. Kh1 Bf3+ 43. Qxf3 Qxf3+ 44. Kg1 Qg2#) 41... Rc1 0-1
+
+[Event "Baden-Baden"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Torre"]
+[Black "Yates"]
+[Result "1-0"]
+[ECO "D00"]
+[Annotator "06: Symmetrical Four Pawns Centre"]
+[PlyCount "65"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 c6 5. e3 Bg7 6. Bd3 O-O 7. O-O Nbd7 8. Re1
+8... c5 9. Qd2 a6 10. Ne5 Nxe5 11. Bxe5 c4 12. Be2 Bf5 13. Bf3 13... e6 14. Qe2
+$1 {Before advancing with Pe4, White forces his opponent to weaken his pawn
+structure. Now he threatens 15. Bxf6 and 16. Pg4} 14... g5 (14... -- 15. Bxf6
+Bxf6 16. g4 $18) 15. e4 dxe4 16. Nxe4 Nxe4 17. Bxe4 Bxe5 18. dxe5 18... Qc7 19.
+Qf3 {As a result Pe4, the Black position has been wrenched at the seems, and
+now displays a number of weaknesses (c4, b7, g5, f6, h6, h5). The text pust
+pressure on several of these weak points; but direct action by} (19. Bxf5 exf5
+20. Qh5 Qe7 21. Re3 {also promising}) 19... Bxe4 20. Rxe4 Rac8 21. h4 $1 {
+Decisive} 21... Qe7 (21... gxh4 22. Rg4+ Kh8 23. Qf6#) (21... h6 22. hxg5 hxg5
+23. Qh5 (23. Qf6 Qd8) 23... Qe7 24. Rg4 {crushing}) 22. hxg5 Kh8 23. Qe3 23...
+Rg8 24. f4 24... b5 25. Rd1 Rcd8 26. Red4 {Thus White also dominates the d-file
+} 26... Qc5 27. Kf2 Rc8 28. Rh1 28... Qe7 {
+Black overlooks his opponent's threat} (28... Rg7 29. Rd8+ Rg8 30. Qxc5 Rxc5
+31. Rd7) 29. Rxh7+ 29... Kxh7 30. Qh3+ Kg6 31. Qh6+ Kf5 32. Qh7+ 32... Rg6 33.
+Qh3# 1-0
+
+[Event "The Hague"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Euwe"]
+[Black "Mattison"]
+[Result "1-0"]
+[ECO "A09"]
+[Annotator "07: Fixed Formations"]
+[PlyCount "45"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+1. Nf3 d5 2. c4 Nf6 3. cxd5 Nxd5 4. d4 e6 5. e4 Nb6 6. Nc3 Be7 7. Bd3 O-O 8.
+O-O c5 9. dxc5 Bxc5 10. e5 {An ideal attacking set-up for White. The classic
+bishop sacrfice and h7 is threatened} 10... Be7 (10... -- 11. Bxh7+ Kxh7 12.
+Ng5+ Kg8 13. Qh5 Qd3) 11. Qe2 11... Nc6 12. Rd1 12... Nd5 {
+Other moves also allow White to continue to strengthen his position} (12... Qc7
+13. Bg5 {exchange of bishops would eliminate Black's only useful defensive
+piece, at the same time leaving his d6 square irreparably weak.}) (12... Bd7
+13. Ne4 13... h6 14. Ng3) 13. Be4 $1 13... Nxc3 (13... Ncb4 14. a3 Nxc3 15.
+bxc3 Nd5 16. Qc2) 14. Bxh7+ 14... Kh8 (14... Kxh7 15. Qc2+) 15. bxc3 Qa5 16.
+Bc2 Qxc3 17. Qe4 17... g6 18. Ng5 18... Qb4 (18... Bxg5 19. Bxg5 19... Qxe5 20.
+Qxe5+ Nxe5 21. Bf6+) 19. Nxf7+ 19... Rxf7 20. Qxg6 Rg7 21. Qh5+ Kg8 22. Bh6
+22... Bf8 (22... -- 23. Qe8+ Bf8 24. Bxg7 Kxg7 25. Qg6+ Kh8 26. Qh7#) 23. Rd3
+1-0
+
+[Event "Kemeri"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Landau"]
+[Black "Reshevsky"]
+[Result "0-1"]
+[Annotator "07: Fixed Formations"]
+[SetUp "1"]
+[FEN "2r2rk1/1b2qp1p/4p1pQ/p1b1P2n/PpN5/3B1N2/1P3PPP/2RR2K1 w - - 0 1"]
+[PlyCount "20"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{A tactical example; Black obtains counterplay by ... Pf6. Looked at from the
+strategic point of view, White's chances are definitely better, since Black's
+pawn structure on both wings is compromised. Yet tactically it is another
+matter, mainly because of the power of Black's two Bishops and the ability to
+open the f-file for attack} 1. Ng5 (1. Be2 Bxf3 2. Bxf3 Qh4 3. g3 3... Bxf2+ 4.
+Kg2 (4. Kxf2 Qxh2+) 4... Bxg3 $1) (1. Nxa5 Bxf3 2. gxf3 2... Qa7 3. Nc4 Qxa4 (
+3... Bxf2+)) (1. Nd6 Bxd6 2. exd6 Rxc1 3. Qxc1 (3. dxe7 Rxd1+ 4. Bf1 Re8 5. Ng5
+5... Nf6 $17) 3... Qf6 4. Qe3 Bxf3 5. Qxf3 Qxf3 6. gxf3 Rd8 7. Bb5 Nf6 8. Bc6
+Kf8 9. Kf1 Nd5) 1... f6 2. exf6 {The consequence of his previous moves.} (2.
+Ne4 fxe5 3. Ncd6 (3. Nxe5 Bxe4 4. Bxe4 Bxf2+ 5. Kh1 5... Qh4) 3... Bxd6 4. Nxd6
+Rxc1 5. Qxc1 Qxd6 6. Bxg6 6... Qb6) (2. Bxg6 fxg5 (2... hxg6 3. Qxg6+ Qg7) 3.
+Bxh5 Bxf2+ 4. Kh1 Bxg2+ 5. Kxg2 Qb7+ 6. Kf1 Qh1+ 7. Ke2 Qe4+) 2... Bxf2+ $3 {
+With this White is awakened from his rosy dreams} 3. Kxf2 (3. Kh1 Rxf6 4. Nxa5
+4... Rxc1 5. Rxc1 5... Be3 6. Re1 Bxg5 7. Qxg5 7... Rf1+) 3... Qxf6+ 4. Nf3
+Bxf3 5. gxf3 Qxf3+ 6. Kg1 6... Rf4 7. Qxf4 Nxf4 8. Bf1 8... Rc5 9. Rd8+ Kg7 10.
+Rd7+ Kh6 0-1
+
+[Event "Vienna"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Tarrasch"]
+[Black "Marco"]
+[Result "1-0"]
+[Annotator "07: Fixed Formations"]
+[SetUp "1"]
+[FEN "1rq2rk1/p1nbbpp1/3p1n1p/1ppP1P2/2P2B2/1PNB1N1P/P1Q3P1/R4RK1 b - - 0 1"]
+[PlyCount "32"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The technique of siege warfare  We observe here, not only that the d-pawn
+cramps the Black game, but also that the pressure is intensified by the f-pawn
+- so that all chance of counterplay by Black is ruled out. Only on the
+Queenside has he some chance of increasing the space available to him. Dr
+Tarrasch felt especially at home in such positions and he demonstrates the
+superiority of White's position with impeccable technique} 1... b4 2. Ne2 2...
+a5 3. g4 3... Nh7 4. h4 {The purpose of this move is not so much to play Pg5
+as to prevent Black's pieces from using g5, and thus achieving some slight
+freedom} 4... Qd8 5. Bg3 a4 6. Kh1 Ra8 7. Rae1 {Typical siege technique; White
+is not going to allow an exchange of Rooks. We know already that every
+exchange helsp the side with less maneuvering space. In this case we have
+clear evidence of this fact, since Black's pieces are cramped and
+uncoordinated} 7... Ne8 8. Nf4 8... Bf6 9. Ne6 {The decisive blow. If the
+Knight is captured, the f-pawn recaptures and the Knight on h7 as well as the
+Bishop on d7 are attacked} 9... axb3 10. axb3 Qb6 11. Nxf8 Kxf8 12. g5 {
+Now white blasts open lines to destroy Black's hapless defence} 12... hxg5 13.
+hxg5 Nxg5 14. Qh2 14... Kg8 15. Nxg5 Bxg5 16. f6 $1 16... g6 17. Bxg6 1-0
+
+[Event "Berlin"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Rubinstein"]
+[Black "Nimzowitsch"]
+[Result "1-0"]
+[ECO "E32"]
+[Annotator "07: Fixed Formations"]
+[PlyCount "85"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Rubinstein was another master of the art} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2
+d6 5. e3 c5 6. Bd3 Nc6 7. Nge2 e5 8. d5 Bxc3+ 9. Qxc3 Ne7 10. Qc2 O-O 11. O-O
+Ng6 12. Ng3 Re8 13. f3 Bd7 14. Bd2 a6 15. h3 b5 16. b3 Qb6 17. Kh2 {White wants
+to play Pf4 but observe how he waits for Queenside tension to be released
+before he prepares his strike} 17... a5 18. Rab1 b4 19. f4 {now!} 19... exf4
+20. exf4 Nf8 21. Bc1 {The only real difference to this position an that of
+Tarrasch-Marco is that a pair of minor pieces have been exchanged, hence Black
+has more room to maneuver} 21... Qd8 {Momentarily crossing White's plan of
+putting his Queen Bishop on the long diagonal} 22. Qf2 (22. Bb2 Ng4+ 23. hxg4
+Qh4+ 24. Kg1 Qxg3) 22... a4 23. Bb2 Ng6 24. Rbd1 axb3 25. axb3 25... Ra7 {
+Black can only wait} 26. Rde1 {
+So as to be able to play Pf5 without giving Black free use of the e5 square}
+26... Rxe1 (26... Ra8) 27. Rxe1 27... Nf8 {This allows White to take the
+offensive at once, but it is difficult to suggest a good course for Black} (
+27... Bc8 28. Bxf6 gxf6 29. Nh5) 28. Bxf6 Qxf6 29. Ne4 29... Qh6 30. f5 30...
+Ra3 31. Rb1 Ra6 32. g4 32... f6 (32... -- 33. g5 Qh5 34. Be2 $18 {trapped Queen
+}) 33. Kg3 {The King himself takes a hand in restraining the Black Queen} 33...
+Bc8 34. Re1 Bb7 (34... Nd7 35. Nxd6 Rxd6 36. Re8+) 35. Qe2 35... Nd7 36. Nxd6
+36... Rxd6 37. Qe8+ Nf8 38. Re7 {Black is helpless to stop the coming slaughter
+} 38... g6 39. Qf7+ Kh8 40. Re8 Rd8 41. Qxf6+ (41. Rxd8 $2 41... Qe3+ 42. Kg2
+Qd2+ 43. Kg1 43... Qe3+ $11) 41... Kg8 42. Qe6+ Kg7 43. f6+ 1-0
+
+[Event "Baden Baden"]
+[Site "Baden Baden"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Tarrasch"]
+[Black "Alekhine"]
+[Result "0-1"]
+[ECO "C53"]
+[Annotator "07: Partially Fixed Formations"]
+[PlyCount "58"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{Black gives up the centre at the right moment} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5
+4. c3 Bb6 5. d4 Qe7 6. O-O Nf6 7. Re1 d6 8. a4 a6 9. h3 O-O 10. Bg5 h6 11. Be3
+11... Qd8 $3 {Alekhine described this as the most difficult move of the whole
+game. The intention is twofold: he gets his Queen off the file of the enemy
+Rook and prepares to play ... Pd5, preceded by ... Pxd4. Meanwhile, the e-file
+is reserved for a Black rook} 12. Bd3 Re8 13. Nbd2 13... Ba7 {Maintaining the
+tension. This move robs White of a chance of playing Nc4 later on with gain of
+tempo, and also prevents his from eventually breaking up the Black pawns by
+capturing first on e5 and then on b6} 14. Qc2 {
+Overprotecting his e-pawn in preparation for the maneuver Nf1-g3} 14... exd4 $1
+{At the correct moment Black abadons the centre} 15. Nxd4 (15. cxd4 15... Nb4 {
+exchanging off White's strong King bishop}) 15... Ne5 16. Bf1 16... d5 $1 17.
+Rad1 (17. f4 Ng6 18. e5 18... Nh5 {wins a pawn}) 17... c5 18. N4b3 Qc7 19. Bf4
+(19. exd5 Nxd5 20. Nc4 Nxc4 21. Bxc4 Nxe3 22. Rxe3 Rxe3 23. fxe3 {
+Black retains the two Bishops under favourable circumstances}) 19... Nf3+ $1
+20. Nxf3 Qxf4 21. exd5 (21. e5 {stronger} 21... Bf5 22. Qd2 Qxd2 23. Rxd2 Ne4
+24. Rdd1 (24. Rxd5 24... Be6 $1) 24... Rad8 $17 {bishop pair}) 21... Bf5 22.
+Bd3 (22. Qd2 Qxa4 23. Nc1 Bc2 24. Rxe8+ Rxe8 25. Re1 Ne4 26. Qf4 c4 27. Nd4
+Bxd4 28. cxd4 28... Qb4) 22... Bxh3 23. gxh3 Qxf3 24. Rxe8+ Rxe8 25. Bf1 {
+White has avoided the loss of a pawn, but now his King will soon fall} 25...
+Re5 26. c4 Rg5+ 27. Kh2 27... Ng4+ 28. hxg4 Rxg4 29. Bh3 Rh4 0-1
+
+[Event "Stockholm"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti"]
+[Black "Stolz"]
+[Result "0-1"]
+[ECO "C86"]
+[Annotator "07: Partially Fixed Formations"]
+[PlyCount "84"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{via Tension form to the Spanish centre} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4
+Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. c3 O-O 9. d4 Bg4 10. Rd1 10... exd4 {
+This move was strongly criticised by Dr. Tarrasch. Black not only surrenders
+his hold on the centre, but also presents White with the c3 square for his
+Knight} 11. cxd4 11... d5 {Nor did this move please Tarrassch} 12. e5 12... Ne4
+{This is what we called, in our introduction, the Spanish centre} 13. Nc3 Nxc3
+14. bxc3 14... Na5 {In the game, we see Stolz following this plan to exchange
+light squared bishops, with transposition of move, and it appears the Black
+position is not all that bad at all} (14... f6 $2 15. h3 $1 15... Bh5 16. g4
+Bf7 17. e6 {Lasker-Teichmann, Petersburg 1909}) (14... Qd7 15. -- Na5 16. Bc2
+16... Bf5 {Exchanging the dangerous Bishop - Tarrasch}) 15. Bc2 Qd7 16. Qd3 {
+forcing a weakening of Black's Kingsie} 16... g6 17. Qe3 17... Rfb8 $1 {
+An excellent move, vacating f8 for the bishop and simultaneously preparing for
+queenside operations} 18. Qh6 18... Bf8 19. Qh4 Bf5 20. Bxf5 Qxf5 21. Re1 21...
+Rb6 {Black makes his Rook available for offence or defence. However, this move
+is an inexactitued, since it permits White to bring his Rooks into the attack
+via e3} (21... Nc4) 22. Bh6 Ba3 23. Bc1 (23. Ng5 -- (23... Be7 24. g4 Qd7 25.
+Re3 f5 26. e6 Bxg5 27. exd7) 24. Nxh7 (24. g4 Qd7 25. Bg7 Kxg7 26. Qxh7+ Kf8)
+24... Kxh7 25. Bg5+ Kg8 26. g4 Qc8 27. Bf6 Rxf6 28. exf6 Qf8 29. Re3) 23... Bf8
+24. Bh6 Ba3 25. Bc1 25... Bxc1 {Black decides to play for a win} 26. Raxc1 Kg7
+27. Nd2 Nc4 28. Nb3 {It is clear that White doesn't want to exchange Knight,
+opening the b-file for Black's Rooks. He aims to occupy his own support points
+at c5} 28... g5 $1 {With White no doubt expecting Queenside operations,
+suddenly Black attacks on the Kingside} 29. Qg3 29... h5 30. h4 (30. h3 {
+more prudent}) 30... Rg6 31. Nc5 gxh4 32. Qxh4 32... Nd2 {
+With this and his next moves, Black throws all his pieces at the White King}
+33. Kh2 Kh7 34. Re3 Rag8 35. Rg1 {White has no choice. Now comes a forced
+liquidation, the point of which emerges with Black's unexpected 38th move}
+35... Rg4 36. Qf6 Qxf6 37. exf6 Rh4+ 38. Rh3 38... Nf3+ 39. gxf3 Rxh3+ 40. Kxh3
+Rxg1 41. Nxa6 Rc1 42. Nxc7 b4 0-1
+
+[Event "Budapest"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Szabo"]
+[Black "Euwe"]
+[Result "0-1"]
+[ECO "C87"]
+[Annotator "07: Partially Fixed Formations"]
+[PlyCount "80"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The dangerous Kingside pawn majority becomes active} 1. e4 e5 2. Nf3 Nc6 3.
+Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Bd7 7. c3 Be7 8. d4 O-O 9. Nbd2 exd4 10.
+cxd4 Nb4 11. Bxd7 (11. Bb3 {sharper} 11... c5 12. Nf1 Bb5 13. Ng3 d5 14. e5 Ne4
+15. Nxe4 dxe4 16. Rxe4 Bd3 17. Re3 c4 18. a3 {
+lively development (Euwe-Keres, 1939)}) 11... Qxd7 12. Nf1 d5 13. Ne5 $1 {
+Before committimg himself to the advance of Pe5, White goes in for a maneuver
+to exchange a pair of Knights and thereby be ready to push the f-pawn aswell}
+13... Qe8 14. a3 14... Nc6 15. Nxc6 Qxc6 16. e5 Ne4 17. Ne3 Qd7 18. f3 {
+The point of White's previous moves is now apparent; his pawn majority on the
+Kingside is four against three ... it rolls into action with gain oftempo}
+18... Ng5 19. f4 Ne4 20. f5 Rfe8 21. Qf3 {A critical moment. White threatens
+to win a pawn with Nxd5, and so compels Black's reply. The result is that
+Black's can't obtain counterplay by means of ... Pc5} 21... c6 (21... -- 22.
+Nxd5 Qxd5 23. Qxe4) 22. f6 $1 22... Bf8 (22... gxf6 23. Ng4 {
+Things would be really serious}) 23. fxg7 Bxg7 24. Nf5 24... Qe6 25. Be3 Qg6
+26. Rad1 $2 {The strongly placed Black Knight makes it difficult for White to
+attack, but this last move permits Black to get rid of the spearhand of the
+White position - the e pawn - and suddenly it is Black who stands better. It
+is essential for White to prevent ... Pf6} (26. Rf1 {necessary}) 26... f6 $1
+27. Nh4 Qf7 28. Rf1 Qe6 29. exf6 Bxf6 30. Nf5 30... Kh8 {In a few moves the
+whole picture has changed. Through the disappearance of the e-pawn, White is
+now plagued by the weakness of his isolated d-pawn; moreover, the open g-file
+will be favourable to Black.  This is a familiar circumstance in the struggle
+for the centre. A central pawn majority lays upon its owner the responsibility
+of maintaining it. A pawn centre always has associated weaknesses, which
+remain latent so long as the centre is intact. As soon as it becomes
+impossible to hold the centre, the drawbacks loom larger} 31. Qh5 Rg8 32. Rf3
+Bg5 33. Rdf1 Raf8 34. Nh6 (34. Nh4 Rxf3 35. Nxf3 35... Nf6 $19) 34... Bxe3+ 35.
+Rxe3 Rxf1+ 36. Kxf1 Qf6+ 37. Nf5 Rf8 38. g4 Qxd4 39. Qxh7+ $2 (39. Qh6 Qd1+ 40.
+Kg2 Qxg4+ 41. Rg3 Qe2+) (39. Rf3 Qd1+ 40. Kg2 Qe2+) 39... Kxh7 40. Rh3+ 40...
+Kg8 0-1

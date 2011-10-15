@@ -1,0 +1,102 @@
+grammar PGNParser
+  rule database
+    game+
+    new_line?
+  end
+
+  rule game
+    tag_section new_line comment? movetext_section new_line*
+  end
+
+  rule tag_section
+    tag_pair*
+  end
+
+  rule tag_pair
+    '[' tag_name [\s]+ tag_value ']' new_line
+  end
+
+  rule tag_name
+    [a-zA-Z0-9]+
+  end
+
+  rule tag_value
+    ('"' [^"]* '"') {
+      gsub!("\"","")
+    }
+  end
+
+
+  rule comment
+    '{' [^}]* '}' space?
+  end
+
+  #rule movetext_section
+  #  move* space? game_termination? new_line
+  #end
+  rule movetext_section
+    move* space? game_termination? new_line* {
+      def moves
+        move.elements
+      end
+    }
+  end
+
+  #rule move_sequence
+  #  move* 
+  #end
+
+  #rule move_sequence
+  #  (move space move_sequence) | (recursive_variation move_sequence) | aborted | empty
+  #end
+
+  rule move
+    (move_number_indication space)? san_move (space numeric_annotation_glyph)? space? comment* (recursive_variation space?)* {
+      def comments
+      comment.elements
+      end
+    }
+  end
+
+  rule aborted
+    '*'
+  end
+
+  rule recursive_variation
+    '(' space? move* space? ')'
+  end
+
+  rule game_termination
+    '1-0' | '0-1' | '1/2-1/2'
+  end
+
+  rule empty
+    ''
+  end
+
+  rule move_number_indication
+    [\d]+ [\.]+
+  end
+  rule san_move
+    (([KQNRB]? [a-h1-8]? [x]? [a-h]? [\d]) | 'O-O' | 'O-O-O' | '--') promotion? check? checkmate?
+  end
+  rule promotion
+    '=' [QRBN]
+  end
+  rule check
+    '+'
+  end
+  rule checkmate
+    '#'
+  end
+  rule numeric_annotation_glyph
+    '$' [\d]*
+  end
+  rule new_line
+    [\r]?[\n]
+  end
+  rule space
+    [\s]+
+  end
+end
+

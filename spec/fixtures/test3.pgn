@@ -1,0 +1,36 @@
+[Event "Crakow"]
+[Site "Crakow"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Alekhine"]
+[Black "Junge"]
+[Result "1-0"]
+[Annotator "01: Active Bishop"]
+[ECO "C86"]
+[PlyCount "57"]
+[Source "Hays Publishing"]
+[SourceDate "1964.01.01"]
+
+{The active Bishop puts White in a position to start a Kingside attack} 1. e4
+e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3 8...
+d5 9. d3 $1 {An excellent reply, avoiding the complications arising from 9.
+exd5 and ensuring White a positional advantage since the opening of the d-file
+is in his favour (as he can immediately occupy it) - Alekhine    } (9. exd5
+Nxd5 (9... Bg4 10. dxc6 e4 11. h3) 10. Nxe5) 9... dxe4 (9... d4 10. cxd4 Nxd4
+11. Nxd4 Qxd4 12. Be3 Qd6 13. f4) (9... Bg4 10. h3 (10. exd5 Nxd5 11. Qe4 Be6
+12. Nxe5 Nxe5 13. Qxe5 Bd6) 10... Bh5 11. Bg5 dxe4 12. dxe4) (9... Qd6 10. Bg5)
+10. dxe4 Bg4 11. h3 Bh5 12. Bg5 Ne8 (12... Na5 13. g4 Bg6 14. Nxe5 Bxe4 15.
+Bxf6 gxf6 16. Nxf7) 13. Bxe7 Bxf3 (13... Qxe7 14. g4 Bg6 15. Bd5 Qd7 16. Nbd2)
+(13... Nxe7 14. g4) 14. Qxf3 Nxe7 15. Rd1 Nd6 16. Nd2 c6 (16... Kh8 17. Nf1 (
+17. Bc2 c6) 17... f5) 17. Nf1 Qc7 18. a4 Rad8 19. Ng3 Nec8 (19... -- 20. Qe3 --
+(20... c5 21. Bd5) 21. axb5 axb5 22. Ra7) 20. axb5 axb5 21. Nf5 Nb6 (21... Nxf5
+22. exf5) 22. Qe3 Nxf5 (22... -- 23. Qg5 Nxf5 24. exf5 Nd7 25. Rxd7 Rxd7 26. f6
+g6 27. Qh6) (22... -- 23. Nxd6 Rxd6 24. Rxd6 Qxd6 25. Qxb6) (22... Nbc4) (22...
+Ndc4 23. Bxc4 Nxc4 24. Qc5 Nxb2 25. Rxd8 Rxd8 26. Ne7+ Kh8 27. Nxc6 Rc8 28. Ra7
+) 23. exf5 c5 (23... Nd5 24. Qf3 Nf6 25. g4) (23... Nd5 24. Bxd5 Rxd5 (24...
+cxd5 25. Ra7 d4 26. Rxc7 dxe3 27. Rxd8 exf2+ (27... e2 28. Rcc8 e1=Q+ 29. Kh2
+g5 30. f6 h5 31. Rxf8+ Kh7 32. Rg8) 28. Kxf2 Rxd8 29. Rb7) 25. Rxd5 cxd5 26.
+Ra7 Qd6 (26... Qb8 27. Qg5 Kh8 28. Qe7) 27. Rb7 Rb8 28. Qa7 Rxb7 29. Qxb7) 24.
+f6 gxf6 25. Qh6 f5 26. Bxf7+ Qxf7 (26... Kxf7 27. Qxh7+) (26... Rxf7 27. Qg5+)
+(26... Kh8 27. Qf6#) 27. Rxd8 Na4 (27... Rxd8 28. Qg5+) 28. b3 Nxc3 (28... Rxd8
+29. Qg5+) (28... Qxb3 29. Rxf8#) (28... Nb2 29. Raa8) 29. Raa8 1-0

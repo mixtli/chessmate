@@ -1,0 +1,188 @@
+[Event "5 12 rated blitz"]
+[Site "freechess.org"]
+[Date "2011.09.20"]
+[Round "?"]
+[White "badhorsey"]
+[Black "NoisyNinja"]
+[Result "0-1"]
+[ResultDescription "badhorsey checkmated"]
+[WhiteElo "1112"]
+[BlackElo "1082"]
+[PlyCount "126"]
+[Variant "blitz"]
+[TimeControl "300+12"]
+[WhiteClock "00:05:00.0"]
+[BlackClock "00:05:00.0"]
+[WhiteLagMillis "21890"]
+[BlackLagMillis "17302"]
+[WhiteRemainingMillis "27719"]
+[BlackRemainingMillis "366027"]
+[WhiteOnTop "0"]
+
+1. e4 {[%emt 0.000]} Nf6 {[%emt 0.000]} 2. e5 {[%emt 3.355]} Nd5 {[%emt 1.245]}
+3. d4 {[%emt 9.373]} d6 {[%emt 1.814]} 4. Nf3 {[%emt 50.063]} Nc6 {[%emt 6.920]}
+5. Bb5 {[%emt 33.823]} a6 {[%emt 11.265]} 6. Ba4 {[%emt 3.436]} b5 {[%emt 3.083]}
+7. Bb3 {[%emt 1.262]} Nb6 {[%emt 6.433]} 8. O-O {[%emt 32.752]} dxe5 {[%emt 5.135]}
+9. dxe5 {[%emt 62.802]} e6 {[%emt 12.217]} 10. Nc3 {[%emt 85.671]} Be7 {[%emt 66.736]}
+11. Qd3 {[%emt 42.811]} Bb7 {[%emt 65.691]} 12. Rd1 {[%emt 33.337]} O-O {[%emt 7.735]}
+13. Qe4 {[%emt 27.121]} Qe8 {[%emt 39.332]} 14. Qg4 {[%emt 16.023]} Kh8 {[%emt 85.489]}
+15. Ne4 {[%emt 33.176]} f5 {[%emt 47.087]} 16. Qh3 {[%emt 30.228]} fxe4 {[%emt 11.140]}
+17. Ng5 {[%emt 9.904]} Bxg5 {[%emt 2.141]} 18. Bxg5 {[%emt 2.092]} Qf7 {[%emt 59.374]}
+19. Rf1 {[%emt 22.618]} Nxe5 {[%emt 37.655]} 20. c3 {[%emt 10.221]} Qf5 {[%emt 2.768]}
+21. Be3 {[%emt 16.009]} Qxh3 {[%emt 3.637]} 22. gxh3 {[%emt 1.817]} Nd3 {[%emt 2.153]}
+23. Bxe6 {[%emt 16.095]} Rf6 {[%emt 6.575]} 24. Bb3 {[%emt 13.566]} Raf8 {[%emt 1.885]}
+25. Rad1 {[%emt 16.925]} Nd7 {[%emt 3.737]} 26. Bc2 {[%emt 11.209]} N7e5 {[%emt 2.564]}
+27. Bxd3 {[%emt 12.765]} Nxd3 {[%emt 8.642]} 28. b3 {[%emt 12.647]} c6 {[%emt 16.734]}
+29. Rd2 {[%emt 3.351]} R8f7 {[%emt 2.421]} 30. Bd4 {[%emt 4.883]} Rf3 {[%emt 6.539]}
+31. Re2 {[%emt 22.665]} Re7 {[%emt 9.904]} 32. Re3 {[%emt 13.556]} Re6 {[%emt 9.715]}
+33. Rxf3 {[%emt 12.553]} exf3 {[%emt 3.737]} 34. Rd1 {[%emt 13.986]} Re1+ {[%emt 9.765]}
+35. Rxe1 {[%emt 7.096]} Nxe1 {[%emt 1.545]} 36. Kf1 {[%emt 15.207]} Ng2 {[%emt 14.392]}
+37. Be5 {[%emt 12.708]} a5 {[%emt 9.752]} 38. Bc7 {[%emt 12.171]} Ba6 {[%emt 2.018]}
+39. Kg1 {[%emt 14.450]} a4 {[%emt 9.521]} 40. b4 {[%emt 5.713]} g5 {[%emt 5.331]}
+41. Bd8 {[%emt 13.308]} h6 {[%emt 2.578]} 42. Be7 {[%emt 15.649]} Kh7 {[%emt 2.512]}
+43. Bd6 {[%emt 10.285]} h5 {[%emt 3.047]} 44. Be7 {[%emt 11.484]} Kg6 {[%emt 2.976]}
+45. Bd8 {[%emt 10.719]} Bc8 {[%emt 1.456]} 46. Be7 {[%emt 16.997]} g4 {[%emt 4.537]}
+47. h4 {[%emt 8.912]} Be6 {[%emt 6.312]} 48. a3 {[%emt 4.397]} Kf5 {[%emt 2.048]}
+49. Bd6 {[%emt 13.293]} Ke4 {[%emt 1.221]} 50. Bf8 {[%emt 11.369]} Kd3 {[%emt 2.049]}
+51. Bg7 {[%emt 2.281]} Bb3 {[%emt 7.285]} 52. Be5 {[%emt 12.511]} Nxh4 {[%emt 6.418]}
+53. Bf6 {[%emt 20.940]} Ng2 {[%emt 4.321]} 54. Be5 {[%emt 16.535]} Kc4 {[%emt 12.590]}
+55. Bf6 {[%emt 15.616]} Kd3 {[%emt 1.982]} 56. Be5 {[%emt 1.648]} Kc2 {[%emt 0.604]}
+57. Bf6 {[%emt 22.606]} Kb2 {[%emt 1.090]} 58. Be5 {[%emt 10.313]} Kxa3 {[%emt 1.302]}
+59. Kf1 {[%emt 11.504]} Bc4+ {[%emt 2.908]} 60. Kg1 {[%emt 10.849]} Kb3 {[%emt 1.333]}
+61. Bf6 {[%emt 14.236]} a3 {[%emt 1.032]} 62. Bd8 {[%emt 9.241]} a2 {[%emt 1.547]}
+63. Bb6 {[%emt 2.148]} a1=R# {[%emt 2.998]} 0-1
+
+[Event "5 12 rated blitz"]
+[Site "freechess.org"]
+[Date "2011.09.23"]
+[Round "?"]
+[White "couches"]
+[Black "badhorsey"]
+[Result "0-1"]
+[ResultDescription "couches resigns"]
+[WhiteElo "1000"]
+[BlackElo "1103"]
+[PlyCount "40"]
+[Variant "blitz"]
+[TimeControl "300+12"]
+[WhiteClock "00:05:00.0"]
+[BlackClock "00:05:00.0"]
+[WhiteLagMillis "4747"]
+[BlackLagMillis "6549"]
+[WhiteRemainingMillis "8410"]
+[BlackRemainingMillis "26519"]
+[WhiteOnTop "1"]
+
+1. e4 {[%emt 0.000]} e5 {[%emt 0.000]} 2. Nf3 {[%emt 5.146]} Nc6 {[%emt 2.137]}
+3. Bc4 {[%emt 23.577]} Bc5 {[%emt 2.773]} 4. b4 {[%emt 2.711]} Bxb4 {[%emt 1.562]}
+5. c3 {[%emt 1.512]} Ba5 {[%emt 1.061]} 6. O-O {[%emt 2.515]} Nf6 {[%emt 18.516]}
+7. Bxf7+ {[%emt 7.061]} Kxf7 {[%emt 5.999]} 8. Ng5+ {[%emt 2.454]} Kf8 {[%emt 32.814]}
+9. d4 {[%emt 24.280]} d6 {[%emt 56.846]} 10. h3 {[%emt 10.026]} Qe8 {[%emt 68.619]}
+11. Ba3 {[%emt 36.311]} Qh5 {[%emt 35.232]} 12. Nf3 {[%emt 25.941]} Nxe4 {[%emt 81.439]}
+13. dxe5 {[%emt 9.953]} Be6 {[%emt 95.993]} 14. exd6 {[%emt 18.429]} Rd8 {[%emt 17.349]}
+15. dxc7+ {[%emt 16.821]} Kf7 {[%emt 28.606]} 16. cxd8=Q {[%emt 19.718]} Rxd8 {[%emt 4.970]}
+17. Qc2 {[%emt 29.483]} Qg6 {[%emt 17.821]} 18. Kh2 {[%emt 133.831]} Bc7+ {[%emt 10.063]}
+19. g3 {[%emt 76.801]} Qh5 {[%emt 13.516]} 20. Nh4 {[%emt 40.168]} Qxh4 {[%emt 6.165]}
+0-1
+
+[Event "5 12 rated blitz"]
+[Site "freechess.org"]
+[Date "2011.09.23"]
+[Round "?"]
+[White "badhorsey"]
+[Black "udimaha"]
+[Result "*"]
+[ResultDescription "Game aborted on move 1"]
+[WhiteElo "1109"]
+[BlackElo "1314E"]
+[PlyCount "1"]
+[ECO "B00A"]
+[Variant "blitz"]
+[TimeControl "300+12"]
+[WhiteClock "00:05:00.0"]
+[BlackClock "00:05:00.0"]
+[WhiteLagMillis "0"]
+[WhiteRemainingMillis "300000"]
+[BlackRemainingMillis "300000"]
+[WhiteOnTop "0"]
+
+1. e4 {[%emt 0.000]} *
+
+[Event "5 12 rated blitz"]
+[Site "freechess.org"]
+[Date "2011.09.23"]
+[Round "?"]
+[White "badhorsey"]
+[Black "vmk"]
+[Result "1-0"]
+[ResultDescription "vmk resigns"]
+[WhiteElo "1109"]
+[BlackElo "1043"]
+[PlyCount "79"]
+[Variant "blitz"]
+[TimeControl "300+12"]
+[WhiteClock "00:05:00.0"]
+[BlackClock "00:05:00.0"]
+[WhiteLagMillis "14854"]
+[BlackLagMillis "0"]
+[WhiteRemainingMillis "83811"]
+[BlackRemainingMillis "292813"]
+[WhiteOnTop "0"]
+
+1. e4 {[%emt 0.000]} c6 {[%emt 0.000]} 2. d4 {[%emt 4.037]} d5 {[%emt 1.912]} 3. Nc3 {[%emt 5.219]}
+dxe4 {[%emt 4.279]} 4. Nxe4 {[%emt 1.912]} Bf5 {[%emt 2.928]} 5. Ng3 {[%emt 22.515]}
+Bc8 {[%emt 19.919]} 6. Be3 {[%emt 29.240]} Nf6 {[%emt 4.938]} 7. Be2 {[%emt 25.194]}
+e6 {[%emt 33.739]} 8. Nf3 {[%emt 15.718]} Be7 {[%emt 25.434]} 9. O-O {[%emt 3.963]}
+O-O {[%emt 3.827]} 10. c3 {[%emt 29.652]} Nbd7 {[%emt 12.644]} 11. Qc2 {[%emt 13.094]}
+h6 {[%emt 32.481]} 12. Bd3 {[%emt 61.101]} a5 {[%emt 50.632]} 13. Ne4 {[%emt 43.865]}
+b6 {[%emt 30.311]} 14. Qd2 {[%emt 23.709]} Nd5 {[%emt 24.347]} 15. Bxh6 {[%emt 41.440]}
+N7f6 {[%emt 25.868]} 16. Qg5 {[%emt 86.987]} Nh5 {[%emt 25.489]} 17. Qxh5 {[%emt 9.963]}
+gxh6 {[%emt 2.723]} 18. Qxh6 {[%emt 6.011]} f5 {[%emt 19.358]} 19. Neg5 {[%emt 29.948]}
+Bxg5 {[%emt 23.857]} 20. Nxg5 {[%emt 3.782]} Nf6 {[%emt 3.289]} 21. Bc4 {[%emt 53.296]}
+Qe7 {[%emt 9.796]} 22. Rae1 {[%emt 19.994]} Qg7 {[%emt 3.352]} 23. Qxg7+ {[%emt 13.410]}
+Kxg7 {[%emt 3.650]} 24. Nxe6+ {[%emt 17.217]} Bxe6 {[%emt 3.401]} 25. Bxe6 {[%emt 1.742]}
+Rae8 {[%emt 2.919]} 26. Bxf5 {[%emt 5.419]} Rxe1 {[%emt 3.547]} 27. Rxe1 {[%emt 1.799]}
+Nd5 {[%emt 5.185]} 28. Be4 {[%emt 12.306]} Rd8 {[%emt 3.387]} 29. Bxd5 {[%emt 6.359]}
+Rxd5 {[%emt 1.452]} 30. Re7+ {[%emt 14.342]} Kf6 {[%emt 4.665]} 31. Rb7 {[%emt 12.156]}
+Rb5 {[%emt 8.397]} 32. b3 {[%emt 5.968]} a4 {[%emt 5.457]} 33. b4 {[%emt 7.509]}
+Ke6 {[%emt 8.452]} 34. h4 {[%emt 3.065]} Kd5 {[%emt 4.745]} 35. h5 {[%emt 15.151]}
+Kc4 {[%emt 1.467]} 36. h6 {[%emt 4.005]} Kxc3 {[%emt 8.043]} 37. h7 {[%emt 10.737]}
+Rxb4 {[%emt 1.803]} 38. h8=Q {[%emt 9.960]} Kb2 {[%emt 18.477]} 39. d5+ {[%emt 6.072]}
+Kxa2 {[%emt 1.378]} 40. dxc6 {[%emt 6.332]} 1-0
+
+[Event "5 12 rated blitz"]
+[Site "freechess.org"]
+[Date "2011.09.27"]
+[Round "?"]
+[White "WillPetrie"]
+[Black "badhorsey"]
+[Result "0-1"]
+[ResultDescription "WillPetrie checkmated"]
+[WhiteElo "620"]
+[BlackElo "1116"]
+[PlyCount "56"]
+[Variant "blitz"]
+[TimeControl "300+12"]
+[WhiteClock "00:05:00.0"]
+[BlackClock "00:05:00.0"]
+[WhiteLagMillis "34110"]
+[BlackLagMillis "9074"]
+[WhiteRemainingMillis "351519"]
+[BlackRemainingMillis "163649"]
+[WhiteOnTop "1"]
+
+1. e4 {[%emt 0.000]} e5 {[%emt 0.000]} 2. d4 {[%emt 3.020]} f6 {[%emt 4.110]} 3. d5 {[%emt 2.300]}
+Bb4+ {[%emt 25.270]} 4. Bd2 {[%emt 3.701]} Bxd2+ {[%emt 7.728]} 5. Nxd2 {[%emt 3.900]}
+d6 {[%emt 3.692]} 6. Nb3 {[%emt 2.960]} c6 {[%emt 23.371]} 7. Nf3 {[%emt 12.221]}
+cxd5 {[%emt 11.600]} 8. Bb5+ {[%emt 13.693]} Bd7 {[%emt 17.498]} 9. Qxd5 {[%emt 2.321]}
+Ne7 {[%emt 27.638]} 10. Qxb7 {[%emt 5.381]} Nbc6 {[%emt 14.774]} 11. Nc5 {[%emt 24.514]}
+Rb8 {[%emt 21.639]} 12. Qxd7+ {[%emt 37.557]} Qxd7 {[%emt 3.838]} 13. Nxd7 {[%emt 2.620]}
+Kxd7 {[%emt 0.108]} 14. a4 {[%emt 21.122]} a6 {[%emt 10.979]} 15. Bxa6 {[%emt 16.011]}
+Nb4 {[%emt 11.123]} 16. Bb5+ {[%emt 15.559]} Kd8 {[%emt 98.559]} 17. Rd1 {[%emt 11.066]}
+Nxc2+ {[%emt 26.362]} 18. Ke2 {[%emt 7.401]} Rb6 {[%emt 35.604]} 19. Nd2 {[%emt 20.364]}
+Nd4+ {[%emt 8.430]} 20. Ke3 {[%emt 4.281]} Nxb5 {[%emt 3.866]} 21. Nc4 {[%emt 3.261]}
+Nd4 {[%emt 14.017]} 22. Nxb6 {[%emt 2.840]} Kc7 {[%emt 32.793]} 23. Nd5+ {[%emt 4.640]}
+Nxd5+ {[%emt 7.136]} 24. exd5 {[%emt 2.960]} Rb8 {[%emt 12.012]} 25. Rd2 {[%emt 27.566]}
+Rb3+ {[%emt 14.837]} 26. Rd3 {[%emt 6.641]} Rxb2 {[%emt 2.889]} 27. Rc1+ {[%emt 5.521]}
+Kd7 {[%emt 5.426]} 28. a5 {[%emt 9.060]} Re2# {[%emt 2.815]} 0-1
+

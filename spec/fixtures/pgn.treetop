@@ -1,0 +1,69 @@
+grammar PGN
+  rule database
+    game+
+  end
+
+  rule game
+    tag_section new_line movetext_section
+  end
+
+  rule tag_section
+    tag_pair*
+  end
+
+  rule tag_pair
+    '[' tag_name [\s]+ tag_value ']' new_line
+  end
+
+  rule tag_name
+    identifier
+  end
+
+  rule tag_value
+    '"' [^"]* '"'
+  end
+
+  rule movetext_section
+    move_sequence game_termination?
+  end
+
+  rule move_sequence
+    &{|s| puts "IN move_sequence"; true }
+    move &{|s| puts "in here #{s}"; true} move_sequence recursive_variation move_sequence
+  end
+
+  rule move
+    &{|s| puts "in move"; true }
+    move_number_indication san_move numeric_annotation_glyph
+  end
+
+  rule recursive_variation
+    '(' move_sequence ')'
+  end
+
+  rule game_termination
+    '1-0' / '0-1' / '1/2-1/2'
+  end
+  rule empty
+    [\n]*
+  end
+  rule identifier
+    [a-zA-Z0-9]+
+  end
+  rule move_number_indication
+    &{|s| puts "in move_number_indication #{s.inspect}"; true}
+    [\d]+ &{|s| puts "got #{s.inspect}"; true}
+  end
+  rule san_move
+    &{|s| puts "in san_move"; true}
+    [KQNRB]? [a-h1-8]? [x]? [a-h] [1-8]
+  end
+  rule numeric_annotation_glyph
+    &{|s| puts "in numeric_annotation_glyph"; true }
+    [\d]*
+  end
+  rule new_line
+    [\n]
+  end
+end
+
