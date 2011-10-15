@@ -1,6 +1,4 @@
-require 'net/telnet'
 require 'eventmachine'
-require 'em/protocols/simple_telnet'
 Thread.abort_on_exception = true
 class Chess::Client::FICS < Chess::Client::Base
   attr_accessor :thread, :callback_object
